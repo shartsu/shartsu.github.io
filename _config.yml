@@ -19,7 +19,6 @@ github_username:      example  # Replace this with your GitHub username
 linkedin_username:    example  # Replace this with your LinkedIn username
 google_plus_username: example  # Replace this with your Google+ username
 facebook_username:    example  # Replace this with your Facebook username
-dribbble_username:    example  # Replace this with your Dribbble username
 
 # Build settings
 markdown: kramdown
