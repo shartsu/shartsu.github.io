@@ -14,6 +14,7 @@
   			<link rel="stylesheet" href="/css/skel.css" />
   			<link rel="stylesheet" href="/css/style.css" />
   			<link rel="stylesheet" href="/css/style-xlarge.css" />
+  			<link rel="stylesheet" href="/css/academicons.css" />
   		</noscript>
   		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
   	</head>
@@ -49,7 +50,26 @@
                 </a>
               </li>
               {% endif %}
-
+              
+              
+              <li>
+                <a href="https://www.researchgate.net/profile/Takumi_Kodama" class="ai ai-researchgate-square">
+                  <span class="label">ResearchGate</span>
+                </a>
+              </li>
+              
+              <li>
+                <a href="https://scholar.google.com/citations?user=KSpXq5YAAAAJ&hl=en" class="ai ai-google-scholar">
+                  <span class="label">GoogleScholar</span>
+                </a>
+              </li>
+              
+              <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+              
               {% if site.linkedin_username %}
               <li>
                 <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="icon fa-linkedin">
@@ -89,6 +109,7 @@
                 </a>
               </li>
               {% endif %}
+              
             </ul>
             <ul class="copyright">
                 <li>&copy; Takumi Kodama</li>
