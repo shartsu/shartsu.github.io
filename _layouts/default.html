@@ -35,41 +35,6 @@
         <footer id="footer">
             <ul class="icons">
 
-              {% if site.github_username %}
-              <li>
-                <a href="https://github.com/{{ site.github_username }}" class="icon fa-github">
-                  <span class="label">GitHub</span>
-                </a>
-              </li>
-              {% endif %}
-
-              {% if site.twitter_username %}
-              <li>
-                <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
-                  <span class="label">Twitter</span>
-                </a>
-              </li>
-              {% endif %}
-              
-              
-              <li>
-                <a href="https://www.researchgate.net/profile/Takumi_Kodama" class="ai ai-researchgate-square">
-                  <span class="label">ResearchGate</span>
-                </a>
-              </li>
-              
-              <li>
-                <a href="https://scholar.google.com/citations?user=KSpXq5YAAAAJ&hl=en" class="ai ai-google-scholar">
-                  <span class="label">GoogleScholar</span>
-                </a>
-              </li>
-              
-              <li>
-                <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
-                  <span class="label">Twitter</span>
-                </a>
-              </li>
-              
               {% if site.linkedin_username %}
               <li>
                 <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="icon fa-linkedin">
@@ -78,10 +43,9 @@
               </li>
               {% endif %}
 
-              {% if site.google_plus_username %}
+              {% if site.github_username %}
               <li>
-                <a href="https://plus.google.com/{{ site.google_plus_username }}" class="icon fa-google-plus">
-                  <span class="label">Google+</span>
+                <a href="https://github.com/{{ site.github_username }}" class="icon fa-github">
                 </a>
               </li>
               {% endif %}
@@ -94,24 +58,28 @@
               </li>
               {% endif %}
 
-              {% if site.dribbble_username %}
               <li>
-                <a href="#" class="icon fa-dribbble">
-                  <span class="label">Dribbble</span>
+                <a href="https://scholar.google.com/citations?user=KSpXq5YAAAAJ&hl=en" class="nonborder">
+                  <i class="ai ai-google-scholar"></i>
+                </a>
+              </li>
+
+              <li>
+                <a href="https://www.researchgate.net/profile/Takumi_Kodama" class="nonborder">
+                <i class="ai ai-researchgate-square"></i>
+                </a>
+              </li>
+
+              {% if site.flickr_username %}
+              <li>
+                <a href="#" class="icon fa-flickr">
                 </a>
               </li>
               {% endif %}
 
-              {% if site.email %}
-              <li>
-                <a href="mailto:{{ site.email }}" class="icon fa-envelope-o">
-                  <span class="label">Email</span>
-                </a>
-              </li>
-              {% endif %}
-              
             </ul>
             <ul class="copyright">
+
                 <li>&copy; Takumi Kodama</li>
                 <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                 <li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>

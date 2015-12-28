@@ -14,8 +14,10 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-github_username:      shartsu  # Replace this with your GitHub username
-facebook_username:    takumi.kodama1004  # Replace this with your Facebook username
+github_username:	shartsu  # Replace this with your GitHub username
+facebook_username:	takumi.kodama1004  # Replace this with your Facebook username
+linkedin_username:	shartsu
+flickr_username:	shartsu
 email: shartsu.in@gmail.com
 
 # Build settings

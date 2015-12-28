@@ -45,11 +45,24 @@
 		text-decoration: none;
 	}
 
+	a.nonborder {
+		border-bottom: none;
+	}
+
 		a:hover {
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
 			text-decoration: none;
 		}
+
+	i {
+    	 -webkit-transform: translate(0px, -3px) scale(1.5);
+            -moz-transform: translate(0px, -3px) scale(1.5);
+             -ms-transform: translate(0px, -3px) scale(1.5);
+              -o-transform: translate(0px, -3px) scale(1.5);
+                 transform: translate(0px, -3px) scale(1.5);
+
+	}
 
 	strong, b {
 		color: #787878;
