@@ -1,5 +1,5 @@
 ---
 title: Es ist title
-layout: post
 ---
 日本語のテスト〜
+Es gibt keinen
