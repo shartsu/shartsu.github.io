@@ -1,5 +1,3 @@
 ---
 title: Es ist title
 ---
-日本語のテスト〜
-Es gibt keinen
