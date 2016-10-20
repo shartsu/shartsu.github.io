@@ -44,7 +44,7 @@ layout: profile
 9. Kodama T, Shimizu K, Makino S, Rutkowski TM. Tactile Brain–computer Interface Based on Classification of P300 Responses Evoked by Spatial Vibrotactile Stimuli Delivered to the User’s Full Body. In: Asia-Pacific Signal and Information Processing Association, 2016 Annual Summit and Conference (APSIPA ASC 2016). APSIPA. Jeju, Korea: IEEE Press; 2016. p. (submitted).
 10. Kodama T, Shimizu K, Makino S, Rutkowski TM. Full–body Tactile P300–based Brain–computer Interface Accuracy Refinement. In: Proceedings of the International Conference on Bio-engineering for Smart Technologies (BioSMART 2016). Dubai, UAE: IEEE Press; 2016. p. (accepted, in press).
 11. Shimizu K, Kodama T, Makino S, Rutkowski TM. Visual Motion Onset Virtual Reality Brain–computer Interface. In: Proceedings of the International Conference on Bio-engineering for Smart Technologies (BioSMART 2016). Dubai, UAE: IEEE Press; 2016. p. (accepted, in press).
-12. Kodama T, Makino S, Rutkowski TM. **Toward a QoL improvement of ALS patients: Development of the Full-body P300-based Tactile Brain--Computer Interface**. In: Proceedings of The AEARU Young Researchers International Conference (YRIC-2016). University of Tsukuba; 2016. p. (accepted, in press).
+12. Kodama T, Makino S, Rutkowski TM. **Toward a QoL improvement of ALS patients: Development of the Full-body P300-based Tactile Brain--Computer Interface**. In: Proceedings of 2016 AEARU Young Researchers International Conference (YRIC-2016). University of Tsukuba; 2016. p.5.
 
 ### Publications (Other)
 
