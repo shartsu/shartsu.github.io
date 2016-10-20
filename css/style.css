@@ -155,6 +155,8 @@
 		border: solid 2px #efefef;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
+		background-color: #00A1CD;
+		color: white;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
 	}
