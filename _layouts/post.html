@@ -4,47 +4,82 @@ layout: default
 <div id="main">
     <article>
         <header class="major">
-            <h2 class="post-title">{{ page.title }}</h2>
+
+            <h2 class="post-title" >{{ page.title }}</h2>
                 <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
         </header>
+
+        <!-- title に {{ page.title }} の値を受け渡す -->
+        <input type="hidden" id="title" value="{{ page.title }} | Takumi Kodama (Blog)">
+        <script> document.title = document.getElementById('title').value;; </script>
 
         <section>
             {{ content }}
         </section>
-        
+
+        <!-- Twitter and Facebook -->
+        <div class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-layout="button_count">　</div><a href="https://twitter.com/share" class="twitter-share-button"></a>
+
+        <hr>
+
+        <!-- facebook Open Graph Metadatas -->
+        <meta content="your_facebook_app_id" property="fb:app_id">
+        <meta content="{{ site.title }}" property="og:site_name">
+        {% if page.title %}
+          <meta content="{{ page.title }}" property="og:title">
+        {% else %}
+          <meta content="{{ site.title }}" property="og:title">
+        {% endif %}
+        {% if page.title %}
+          <meta content="article" property="og:type">
+        {% else %}
+          <meta content="website" property="og:type">
+        {% endif %}
+        {% if page.description %}
+          <meta content="{{ page.description }}" property="og:description">
+        {% else %}
+          <meta content="{{ site.description }}" property="og:description">
+        {% endif %}
+        {% if page.url %}
+          <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+        {% endif %}
+        {% if page.date %}
+          <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+          <meta content="{{ site.url }}/about/" property="article:author">
+        {% endif %}
+        {% if page.image %}
+          <meta content="/img/posts/{{ page.image }}" property="og:image">
+        {% else %}
+          <meta content="/img/logo-high-resolution.png" property="og:image">
+        {% endif %}
+        {% if page.categories %}
+          {% for category in page.categories limit:1 %}
+          <meta content="{{ category }}" property="article:section">
+          {% endfor %}
+        {% endif %}
+        {% if page.tags %}
+          {% for tag in page.tags %}
+          <meta content="{{ tag }}" property="article:tag">
+          {% endfor %}
+        {% endif %}
+
+        <!-- footer -->
+
         <footer>
             <div class="row">
             {% if page.previous %}
-            
                 <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
                     <header>
-                        <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
+                        <h4><a href="{{ page.previous.url }}">◀ {{ page.previous.title }}</a></h4>
                     </header>
-                    <section>
-                        {{ page.previous.excerpt }}
-                    </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ page.previous.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
                 </article>
             {% endif %}
-            
+
             {% if page.next %}
-            
                 <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt f-right">
                     <header>
-                        <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
+                        <h4><a href="{{ page.next.url }}">{{ page.next.title }} ▶</a></h4>
                     </header>
-                    <section>
-                        {{ page.next.excerpt | markdownify }}
-                    </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ page.next.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
                 </article>
             {% endif %}
             </div>
@@ -53,3 +88,5 @@ layout: default
     </article>
 
 </div>
+
+
