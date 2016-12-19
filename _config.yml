@@ -10,8 +10,23 @@ description: Takumi Kodama, University of Tsukuba
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://shartsu.github.io" # the base hostname & protocol for your site
 
+cloudinary_url: "http://res.cloudinary.com/schatzi/image/upload"
 github_username:	shartsu
 flickr_username:	shartsu
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-cloudinary
+
+cloudinary:
+  cloud_name: schatzl
+
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width: 50rem) 50rem, 90vw"

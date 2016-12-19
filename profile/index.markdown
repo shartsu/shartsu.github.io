@@ -21,13 +21,10 @@ layout: profile
 	- **Tactile P300 BCI Accuracy Refinement** (ongoing)
 	- **Full Body Spatial Tactile BCI for ALS patients application** (ongoing)
 	- **Virtual Reality BCI** (ongoing) with bcilab student Kensuke Shimizu
-
 - `2015 - 2016` at Graz University of Technology (Austria)
 	- **Hybrid BCI combination with Tactile P300 and SSVEP Paradigm** [[At a glance (Slideshare)](http://www.slideshare.net/TakumiKodama/hybrid-bci-combination-with-tactile-p300-and-ssvep-paradigm)]
-
 - `2014 - 2015` at Unviersity of Tsukuba
 	-  **Full Body Spatial Tactile Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=sn6OEBBKsPQ)]
-
 - `2013 - 2014` at Unviersity of Tsukuba
 	- **Spatial Tactile Body Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=hMEMDCzIk30)][[Project Summary (bci-lab.info)](http://about.bci-lab.info/projects/btbci)]
 
@@ -41,9 +38,9 @@ layout: profile
 6. Shimizu K, Aminaka D, Kodama T, Nakaizumi C, et al. **Brain-robot Interfaces Using Spatial Tactile and Visual BCI Paradigms - Brains Connecting to the Internet of Things Approach**. In: The International Conference on Brain Informatics & Health - Type II Paper: Proceedings 2015. London, UK: Imperial College London; 2015. p. 9-10. [[ResearchGate](https://www.researchgate.net/publication/281651229_Brain-robot_Interfaces_Using_Spatial_Tactile_and_Visual_BCI_Paradigms_-_Brains_Connecting_to_the_Internet_of_Things_Approach)]
 7. Rutkowski TM, Shimizu K, Kodama T, Jurica P, Cichocki A. **Brain--robot Interfaces Using Spatial Tactile BCI Paradigms - Symbiotic Brain-robot Applications**. In: Symbiotic Interaction. vol. 9359 of Lecture Notes in Computer Science. Switzerland: Springer International Publishing; 2015. p. 132-137. [[Springer](http://dx.doi.org/10.1007/978-3-319-24917-9_14)]
 8. Kodama T, Shimizu K, Rutkowski TM. **Full Body Spatial Tactile BCI for Direct Brain-robot Control**. In: Proceedings of the Sixth International Brain-Computer Interface Meeting: BCI Past, Present, and Future. Asilomar Conference Center, Pacific Grove, CA USA: Verlag der Technischen Universitaet Graz; 2016. p. 68. [[ResearchGate](https://www.researchgate.net/publication/303286323_Proceedings_of_the_Sixth_International_Brain-Computer_Interface_Meeting_BCI_Past_Present_and_Future)] **(Student Travel Award)**
-9. Kodama T, Shimizu K, Makino S, Rutkowski TM. Tactile Brain–computer Interface Based on Classification of P300 Responses Evoked by Spatial Vibrotactile Stimuli Delivered to the User’s Full Body. In: Asia-Pacific Signal and Information Processing Association, 2016 Annual Summit and Conference (APSIPA ASC 2016). APSIPA. Jeju, Korea: IEEE Press; 2016. p. (submitted).
-10. Kodama T, Shimizu K, Makino S, Rutkowski TM. Full–body Tactile P300–based Brain–computer Interface Accuracy Refinement. In: Proceedings of the International Conference on Bio-engineering for Smart Technologies (BioSMART 2016). Dubai, UAE: IEEE Press; 2016. p. (accepted, in press).
-11. Shimizu K, Kodama T, Makino S, Rutkowski TM. Visual Motion Onset Virtual Reality Brain–computer Interface. In: Proceedings of the International Conference on Bio-engineering for Smart Technologies (BioSMART 2016). Dubai, UAE: IEEE Press; 2016. p. (accepted, in press).
+9. Kodama T, Makino S, Rutkowski TM. **Tactile Brain-Computer Interface Using Classification of P300 Responses Evoked by Full Body Spatial Vibrotactile Stimuli**. In: Asia-Pacific Signal and Information Processing Association, 2016 Annual Summit and Conference (APSIPA ASC 2016). APSIPA. Jeju, Korea: IEEE Press; 2016. p. 176.
+10. Kodama T, Shimizu K, Makino S, Rutkowski TM. **Full–body Tactile P300–based Brain–computer Interface Accuracy Refinement**. In: Proceedings of the International Conference on Bio-engineering for Smart Technologies (BioSMART 2016). Dubai, UAE: IEEE Press; 2016. p. 19.
+11. Shimizu K, Kodama T, Makino S, Rutkowski TM. **Visual Motion Onset Virtual Reality Brain–computer Interface**. In: Proceedings of the International Conference on Bio-engineering for Smart Technologies (BioSMART 2016). Dubai, UAE: IEEE Press; 2016. p. 24.
 12. Kodama T, Makino S, Rutkowski TM. **Toward a QoL improvement of ALS patients: Development of the Full-body P300-based Tactile Brain--Computer Interface**. In: Proceedings of 2016 AEARU Young Researchers International Conference (YRIC-2016). University of Tsukuba; 2016. p.5.
 
 ### Publications (Other)
@@ -61,11 +58,14 @@ layout: profile
 - `Nov.2009` **The Kushiro Shimbun Publishing Young Student Award (財団法人 釧路新聞教育芸術振興基金 奨学賞)** as the Representative High School Student of Kushiro National College of Technology from the Promotion Foundation of Education and Arts of Kushiro Shimbun Publishing, Hokkaido, Japan. [[Photo](./imgs/award_nov2009_senshin.png)]
 - `Mar.2012` **Chairman Research Award of IPSJ Hokkaido Branch (一般社団法人 情報処理学会 北海道支部長賞)** for the result of the graduation research in Kushiro National College of Technology from Information Processing Society of Japan (IPSJ), Hokkaido, Japan. [[Official]( http://hokkaido.ipsj.or.jp/pukiwiki/index.php?%E6%94%AF%E9%83%A8%E9%95%B7%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85 )]
 [comment]: [[SlideShare](@hokkaido)]
-- `Sep.2014` **Travel Support for Overseas Academic Conference Participation** for attending 6th International Brain-Computer Interface Conference 2014 from University of Tsukuba Study Abroad Support Programs, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
+- `Sep.2014` **Travel Support for Overseas Academic Conference Participation** for attending 6th International Brain-Computer Interface Conference 2014 from Study Abroad Support Programs, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
 - `Feb.2015` **TOBITATE! Young Ambassador Study Abroad Scholarship (トビタテ！留学JAPAN 日本代表プログラム 国費奨学金)** by Japan Public-Private Partnership Student Study Abroad Program in Ministry of Education, Culture, Sports, Science and Technology (文部科学省 官民協働海外留学支援制度) for the research internship at Graz University of Technology, Graz, Austria. [[Photo (Official Twitter)](https://twitter.com/ryugakujapan/status/572207675645157376)][[Official](http://www.tobitate.mext.go.jp/)]
 - `Feb.2015` **The Best Poster Award** in the 10th AEARU Workshop on Computer Science and Web Technology (CSWT-2015), Tsukuba, Japan. [[Photo](./imgs/award_feb2015_aearu.jpg)][[Official](http://aearu-cswt2015.sie.tsukuba.ac.jp/)]
 - `Jun.2016` **The Student Travel Award** in the Sixth International Brain-Computer Interface Meeting, CA, USA. [[Photo](./imgs/award_jun2016_bcimeeting.jpg)][[Official](http://bcisociety.org/meetings/bci-meeting-2016-student-travel-award-program/)]
 - `Jul.2016` **Selected a VR course project member of TECH LAB PAAK** for "Research & Development of Virtual Reality Brain-Computer Interface" produced by Recruit Holdings Co., Ltd., Tokyo, Japan. [[Photo (Official Facebook)](https://www.facebook.com/techlabpaak/photos/a.468633186657261.1073741829.325272037660044/545700698950509/?type=3&theater)][[Official](http://techlabpaak.com/)]
+- `Sep.2016` **The HARA Research Foundation Research Grant Project for Overseas Academic Conference Participation** for attending Asia-Pacific Signal and Information Processing Association, Annual Summit and Conference 2016 (APSIPA ASC 2016) from the HARA Research Foundation, Osaka, Japan. [[Official](http://www.hara-rf.jp/)]
+- `Nov.2016` **Travel Support for Overseas Academic Conference Participation** for attending the International Conference on Bio-engineering for Smart Technologies (BioSMART 2016) from Study Abroad Support Program, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
+- `Nov.2016` **HABATAKE! University of Tsukuba Students - Travel Support Scholarship Program for Overseas Academic Conference** for attending the IEEE BHI-2017 International Conference on Biomedical and Health Informatics from Division of Student Exchange, Department of Student Affairs, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/global/scholarship.html)]
 
 ### Other Awards / Scholarships / Selections
 
@@ -81,6 +81,10 @@ layout: profile
 
 - `Mar.2015-Present` ***Student Member***, Information Processing Society of Japan (IPSJ), Japan.
 - `Aug.2016-Present` ***Student Member***, Institute of Electrical and Electronics Engineers (IEEE), USA.
+
+### Teaching Experience
+
+- `Oct.2014-Mar.2015` **Global South Lecture I: Emerging Countries in the Global Market (グローバルサウス講義Ⅰ: 新興国経済論)**. Global Human Resources Development Program, College of Social Sciences, University of Tsukuba, Tsukuba, Japan. [[Official](http://asip.hass.tsukuba.ac.jp/en/index.html)]
 
 ### Working and Internship Experience
 
@@ -98,7 +102,7 @@ layout: profile
 - `Aug.2015-Mar.2016` **Graz University of Technology**, Graz, Austria.
 	- as a Research Internship Student of Graz Brain-Computer Interface Laboratory in Institute of Neural Engineering [[Photo](./imgs/work_graz2015.jpg)][[Official](https://www.tugraz.at/institute/ine/home/)]
 - `Aug.2013-Sep.2013, Aug.2014-Sep.2014 and Mar.2016` **Recruit Holdings Co., Ltd**, Tokyo, Japan.
-	- as a Web Developmentment Summer Internship Student (two years in a row) [[Photo](./imgs/work_recruit2014.jpg)][[Official](http://r.recruit-jinji.jp/summer-internship2016/)]
+	- as a Web Development Summer Internship Student (two years in a row) [[Photo](./imgs/work_recruit2014.jpg)][[Official](http://r.recruit-jinji.jp/summer-internship2016/)]
 	- as a Participant of the Silicon Valley Workshop 2016 [[Official](http://techlabpaak.com/siliconvalleyworkshop2016)]
 - `Apr.2013-Aug.2015` **Poppin Games Japan Co., Ltd**, Tsukuba, Japan. [[Official](http://poppin-games.com/en/)]
 	- as an iOS Engineer
@@ -108,9 +112,6 @@ layout: profile
 	- as an Application Engineer (2012)
 	- as a Mentor (2013) [[Official](https://www.cyphertec.co.jp/news/20130829.html)]
 
-### Teaching Experience
-
-- `Oct.2014-Mar.2015` **Global South Lecture I: Emerging Countries in the Global Market (グローバルサウス講義Ⅰ: 新興国経済論)**. Global Human Resources Development Program, College of Social Sciences, University of Tsukuba, Tsukuba, Japan. [[Official](http://asip.hass.tsukuba.ac.jp/en/index.html)]
 
 ### Lecture / Lightning Talk
 
@@ -132,38 +133,10 @@ layout: profile
 - `Apr.2012-Mar.2014` **Tsukuba-daigaku Kirikirimai (筑波大学 斬桐舞)** as a Yosakoi Soran Dancer and Student Travel Organizer, University of Tsukuba, Tsukuba, Japan. [[Photo](./imgs/activity_kirikiri2012.jpg)][[Official](http://thekirikirimai.tsukuba.ch/)]
 - `Oct.2012-Sep.2014` **Tsukuba-daigaku Hokkaido-Minkai (筑波大学 北海道民会)** as the President Student and Organizer, University of Tsukuba, Tsukuba, Japan. [[Photo](./imgs/activity_hokkaido2012.jpg)][[Official](https://www.facebook.com/dominkai.tkb/?fref=ts)]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Hobby
+- Camping
+- Snowboarding
+- Hot spring
+- Making foreign friends
+- Watching Sports Game (J-league/German Bundesliga/NPB/NBA)
 

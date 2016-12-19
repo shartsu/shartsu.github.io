@@ -80,3 +80,21 @@ ol li:before {
 	text-align: center;
    }
 
+/* image */
+.img-100p {
+  width:  100% !important;
+  display: block;
+}
+
+.img-75p {
+  width:  75% !important;
+  display: block;
+}
+
+.img-50p {
+  width:  50% !important;
+  display: block;
+}
+
+
+
