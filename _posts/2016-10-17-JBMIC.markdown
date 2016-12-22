@@ -1,0 +1,20 @@
+---
+title: Research Presentation at "Japan Neurosurgical BMI Conference 2016"
+layout: post
+---
+
+I've particpated in [Japan Neurosurgical BMI Conference 2016(第3回脳神経外科BMI懇話会)](http://www.asahikawa-med.ac.jp/dept/mc/neuro/image/presenter.html). 
+
+This conference was quite rare opportunity because there has been not many BCI/BMI related conference in Japan. This research conference was actually led by the neurosurgical medical doctors in Japan, but luckily my computer-science orientated paper had accepted.
+
+The presentation title was "**Application and Development of Tactile Brain-Computer Interface(触覚刺激駆動型BCIの開発と応用)**".
+
+I had summarized all of the tactile BCI applications which had been developed in [BCI-Lab Group](http://about.bci-lab.info/) for this three years. That was also my first time of Japanese language presentation :)
+
+![]({{site.cloudinary_url}}/a_auto_left/a_0/v1479040125/IMG_7911_zo1zjh.jpg){:class="img-50p"}
+
+As mentioned above, since this conference was run by medical researchers, almost of the participants were close to the medical research domains. However, my research presentation had so much interest from those researchers because the approach from computer science researchers for BCI was relatively rare in my country.
+
+Personally I had special motivation for this conference because Hokkaido is my birthplace.
+
+I was quite happy to participate the such a special opportunity. This experience will stay on my memories through my lifetime :)

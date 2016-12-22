@@ -1,0 +1,20 @@
+---
+title: Research Presentation at "BioSMART Conference 2016 @ UAE"
+layout: post
+---
+
+I've been to UAE for attending [IEEE BioSMART Conference 2016](http://www.conf-biosmart.org/) from 3 to 9 on December. 
+
+My first visiting to Dubai was in winter, though its maximum temperature was around 30 degrees Celsius. The concept of the conference was **Biomedical** x **Technology** x **SMART**. Actually there were numerous biomedical conference in the world, but this conference specialized in the smart technology. The BCI has considered as one of the new category.
+
+The research topic I delivered in the presentation was "**Full–body Tactile P300–based Brain–computer Interface Accuracy Refinement**". We applied several signal processing settings (decimation factors and epoch averagings) and several machine learning algorithms (LDA, linear SVM and non-linear SVM) to our BCI settings, then compared the classification accuracies using the fbBCI datasets. 
+
+![]({{site.cloudinary_url}}/v1482408555/6858887257666339403-account_id_2_ugihng.jpg){:class="img-100p"}
+
+At the conference, attendees from all over the world were not only researchers, but also a company employees. So all we exchanged the "SMART" discussions in terms of both academic and business side. We as well had the great feedbacks after the presentations.
+
+I had been nominated as a candidate of the student BEST paper award:
+[BioSMART BEST paper award candidates](http://www.conf-biosmart.org/biosmart-competition). Unfortunately, though, I wasn't able to get an award, but it was surely my great experience through the graduate student life.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4fVt5eUeOeMhrF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TakumiKodama/fullbody-tactile-p300based-braincomputer-interface-accuracy-refinement" title="Full–body Tactile P300–based Brain–computer Interface Accuracy Refinement" target="_blank">Full–body Tactile P300–based Brain–computer Interface Accuracy Refinement</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/TakumiKodama">Takumi Kodama</a></strong> </div>
+<br>

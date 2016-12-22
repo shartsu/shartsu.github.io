@@ -43,6 +43,12 @@ ul li ul li{
 	margin: 0 0 0 0;
 }
 
+hr.top {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+}
+
 .fb-share-button > span {
 	vertical-align: baseline !important;
 }
@@ -96,5 +102,15 @@ ol li:before {
   display: block;
 }
 
+/* section borders */
 
+#main > section {
+	border-top: 0 !important;
+	margin: 1em 0 0 0 !important;
+	padding: 1em 0 0 0 !important;
+}
 
+.button:hover {
+	border-color: #00A1CD !important;
+	color: #00A1CD !important;
+}

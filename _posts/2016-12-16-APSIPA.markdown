@@ -1,0 +1,18 @@
+---
+title: Research Presentation at "APSIPA ASC 2016 @ South Korea"
+layout: post
+---
+
+My first time visiting for South Korea was to attend [Asia-Pacific Signal and Information Processing Association, 2016 Annual Summit and Conference (APSIPA ASC 2016)](http://www.apsipa2016.org/main.do). 
+
+The Jeju island where the conference was taken place is located just adjacent to Kyusyu district in our country Japan. I was actually excited to visit the beautiful island famous for the sightseeings.
+
+I gave my research presentation at the "Recent topics in neural signal processing and brain-machine/computer interfaces session". My presentation title was "**Tactile Brain-Computer Interface Using Classification of P300 Responses Evoked by Full Body Spatial Vibrotactile Stimuli**". That was the summary of my research project building the full-body vibrotactile P300-based interface. 
+
+![]({{site.cloudinary_url}}/v1482408553/IMG_4420_vmxhee.jpg){:class="img-100p"}
+
+Since the session was specialized in BCI, I got a lot of specific feedbacks regarding the experiment setups as well as the classification results. I also met Prof. Higashi and Prof. Tanaka who were previous colleague of my supervisor Prof. Rutkowski for the first time and exchanged the hopeful discussions for the future researches. 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hfbFKdYfWbwyzn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TakumiKodama/tactile-braincomputer-interface-using-classification-of-p300-responses-evoked-by-full-body-spatial-vibrotactile-stimuli" title="Tactile Brain-Computer Interface Using Classification of P300 Responses Evoked by Full Body Spatial Vibrotactile Stimuli" target="_blank">Tactile Brain-Computer Interface Using Classification of P300 Responses Evoked by Full Body Spatial Vibrotactile Stimuli</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/TakumiKodama">Takumi Kodama</a></strong> </div><br>
+
+I also would like to thank [HARA research foundation](http://www.hara-rf.jp/) which funded me to participate such a brilliant conference. I have to appreciate all the supports allowing me to continue my research project m(__)m

@@ -1,0 +1,23 @@
+---
+title: Released original web application "DO You HokkaiDO?"
+layout: post
+---
+
+Though this is my hobby stuff, I've released my original web application of [DO You Hokkaido?](https://doyouhokkaido.herokuapp.com/).
+
+That web application summarizes my several social media accounts which are sharing photos and videos taken in Hokkaido.
+
+[[Instagram]](https://www.instagram.com/doyouhokkaido/)
+[[Youtube]](https://www.youtube.com/channel/UCkNqIm6ml4jWY0zWdn3OJBA)
+[[Twitter]](https://twitter.com/doyouhokkaido/)
+[[Facebook]](https://www.facebook.com/doyouhokkaido/)
+
+From those social media accounts, location informations were fetched by the web application using several APIs, and then put their location pins on the google map. So the user can easily understand where the photo or movies were taken in. This seems to be called as "Cross media" in my country (is the same in the world?).
+
+The system was build in Ruby on Rails 4. That was my first time to learn web related programmings but I could achieve building it. 
+
+![]({{site.cloudinary_url}}/v1482409999/Screen_Shot_2016-12-22_at_21.32.49_bzmyar.png){:class="img-50p"}
+
+Now I'm prould of being able to achieve a little part of my dream, "To make Hokkaido as world wide sightseeing place". I would keep maintaining this web application as much as possible before and after graduation.
+
+So let's stay tune for [DO You Hokkaido?](https://doyouhokkaido.herokuapp.com/)! Why don't you HokkaiDO? ;)

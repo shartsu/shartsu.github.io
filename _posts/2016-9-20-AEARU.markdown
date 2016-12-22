@@ -1,0 +1,26 @@
+---
+title: Research Presentation at "Tsukuba Grobal Science Week 2016"
+layout: post
+---
+
+I've participated in [Tsukuba Grobal Science Week 2016](http://www.kokuren.tsukuba.ac.jp/TGSW2016/) the last weekend.
+
+The session was[2016 AEARU Young Researchers International Conference](https://www.tsukuba.ac.jp/en/news-list/n201609280917) and the my research presentation title of which was "**Toward a QoL improvement of ALS patients: Development of the Full-body P300-based Tactile Brain-Computer Interface**".
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nfaT16ZCFz1Lt4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TakumiKodama/toward-a-qol-improvement-of-als-patients-development-of-the-fullbody-p300based-tactile-braincomputer-interface" title="Toward a QoL improvement of ALS patients: Development of the Full-body P300-based Tactile Brain-Computer Interface" target="_blank">Toward a QoL improvement of ALS patients: Development of the Full-body P300-based Tactile Brain-Computer Interface</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/TakumiKodama">Takumi Kodama</a></strong></div><br>
+Above is the slide used in the presentation. Youtube video is also included on the top page.
+
+That conference was actually aimed for the students who majors all of the research domains, so I had created the presentations in beginner level with an examples.
+
+The participated students were almost from prestigious East Asian universities, for instance, Peking University, KAIST, University of Tokyo and so on...
+
+![]({{site.cloudinary_url}}/v1479044804/DSC07566_w3mwui.jpg){:class="img-50p"}
+
+I was great honor to be chosen as the top presenter of the host university. My turn was just No.2 of all the programs which had continued for two days. 
+
+I thought this was such a nice opportunity to have research presentations and discussions with clever students from all over the world in just "walking distance" from my home :)
+
+I'd like to say thanks for the AEARU committees, TGSW2016 organizations as well as the participated enthusiastic students.
+
+P.S. I went to [UOBEI](https://appetiteforjapan.com/2016/01/31/uobei-genki-sushi/) with other conference participants at night. They were actually quite nice students from Indonesia, Bangladesh, and South Korea. They obviously impressed the sophisticated system which Sushis were ridings on Shinkansen and arrived our tables in no time ;)
+
