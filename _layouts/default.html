@@ -112,6 +112,8 @@
                 <li>Jekyll Template: <a href="http://cloudcannon.com" target="_blank">Cloud Cannon</a></li>
             </ul>
         </footer>
-
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 	</body>
 </html>
