@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
   	<head>
   		<title>Takumi Kodama | University of Tsukuba, Japan</title>
   		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -40,13 +41,24 @@
               fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));</script>
 
+      <script>
+      // leanModal v1.1 by Ray Stone - http://finelysliced.com.au
+      $(function(){
+      (function($){$.fn.extend({leanModal:function(options){var defaults={top:100,overlay:0.5,closeButton:null};var overlay=$("<div id='lean_overlay'></div>");$("body").append(overlay);options=$.extend(defaults,options);return this.each(function(){var o=options;$(this).click(function(e){var modal_id=$(this).attr("href");$("#lean_overlay").click(function(){close_modal(modal_id)});$(o.closeButton).click(function(){close_modal(modal_id)});var modal_height=$(modal_id).outerHeight();var modal_width=$(modal_id).outerWidth();
+      $("#lean_overlay").css({"display":"block",opacity:0});$("#lean_overlay").fadeTo(200,o.overlay);$(modal_id).css({"display":"block","position":"fixed","opacity":0,"z-index":11000,"left":50+"%","margin-left":-(modal_width/2)+"px","top":o.top+"px"});$(modal_id).fadeTo(200,1);e.preventDefault()})});function close_modal(modal_id){$("#lean_overlay").fadeOut(200);$(modal_id).css({"display":"none"})}}})})(jQuery);
+
+      $(".modalimg").leanModal();
+
+      });
+      </script>
+
       <header id="header">
+
           <a href="/" class="image avatar"><img src="/images/icon.jpg" alt="" /></a>
           <h1><strong>Ich heiße <a href="/profile/">Takumi Kodama</a></strong>,<br>
            ein Student am <a href="http://about.bci-lab.info/"  target="_blank">BCI-Lab-Group</a>,<br>
           <a href="https://www.tsukuba.ac.jp/english/"  target="_blank">Tsukuba Universität &#x1f1ef;&#x1f1f5;</a>.</h1>
       </header>
-
 
         {{ content }}
 

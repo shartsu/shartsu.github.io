@@ -2,7 +2,6 @@
 title: Research Presentation at "APSIPA ASC 2016 @ South Korea"
 layout: post
 ---
-
 My first time visiting for South Korea was to attend [Asia-Pacific Signal and Information Processing Association, 2016 Annual Summit and Conference (APSIPA ASC 2016)](http://www.apsipa2016.org/main.do). 
 
 The Jeju island where the conference was taken place is located just adjacent to Kyusyu district in our country Japan. I was actually excited to visit the beautiful island famous for the sightseeings.
