@@ -6,6 +6,10 @@ layout: profile
 
 # Takumi Kodama / 兒玉 拓巳
 
+### Biography
+
+　Takumi KODAMA was born on October 4, 1991, in Hokkaido, Japan. He received his BE in Information Science from University of Tsukuba, Japan in 2012. Later he has studied Computer Science in Graduate School of SIE, University of Tsukuba as well. He visited Graz University of Technology, Austria as a research internship student supported by MEXT Japan government scholarship(2015-16). He is especially interested in Brain-Computer Interface, Machine Learning and Programming Education.
+
 ### Education
 - `Apr.2014-Present` Department of Computer Science, **University of Tsukuba**, Tsukuba, Japan
 	- 筑波大学大学院 システム情報工学研究科 コンピュータサイエンス専攻
@@ -28,7 +32,7 @@ layout: profile
 - `2013 - 2014` at Unviersity of Tsukuba
 	- **Spatial Tactile Body Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=hMEMDCzIk30)][[Project Summary (bci-lab.info)](http://about.bci-lab.info/projects/btbci)]
 
-### Publications (Peer Reviewed)
+### Publications (Peer Reviewed) ... => [[Bibtex file](./takumiauthor.bib)]
 
 1. <u>Kodama T</u>, Makino S, Rutkowski TM. **Spatial Tactile Brain-Computer Interface Paradigm Applying Vibration Stimuli to Large Areas of User’s Back**. In: Proceedings of the 6th International Brain-Computer Interface Conference 2014. Graz University of Technology Publishing House; 2014. p. Article ID 032-1-4. doi:10.3217/978-3-85125-378-8-32 [[Poster (ResearchGate)](https://www.researchgate.net/publication/261700931_Spatial_Tactile_Brain-Computer_Interface_Paradigm_Applying_Vibration_Stimuli_to_Large_Areas_of_User%27s_Back)][[Paper (PDF)](http://castor.tugraz.at/doku/BCIMeeting2014/bci2014_032.pdf)]
 2. <u>Kodama T</u>, Makino S, Rutkowski TM. **Spatial Tactile Brain-Computer Interface by Applying Vibration to User’s Shoulders and Waist**. In: Proceedings of The 10th AEARU Workshop on Computer Science and Web Technologies (CSWT-2015). University of Tsukuba; 2015. p. 41-42. [[Poster (ResearchGate)](https://www.researchgate.net/publication/278301264_Spatial_Tactile_Brain-Computer_Interface_by_Applying_Vibration_to_User%27s_Shoulders_and_Waist?ev=prf_pub)] [[Paper (PDF)](http://www.tara.tsukuba.ac.jp/~maki/reprint/Tomek/kodama15aearu41-42.pdf)] <span style="color: red; ">*(Best Poster Award)*</span>
