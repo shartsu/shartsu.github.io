@@ -1,5 +1,5 @@
 ---
-title: Short Presentation at "OPEN PAAK DAY #6 @ Shibuya, Tokyo"
+title: Short Presentation at "OPEN PAAK DAY 6 @ Shibuya, Tokyo"
 layout: post
 ---
 
