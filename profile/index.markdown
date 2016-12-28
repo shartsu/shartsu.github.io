@@ -126,7 +126,7 @@ layout: profile
 
 ### Media
 
-- `Sep.2009` **PR magazine for Department of Information Engineering, Kushiro NCT (国立釧路工業高等専門学校 情報工学科 広報誌)** as a Representative Student of the Department, Kushiro National College of Technology, Hokkaido, Japan. [[Official](https://www.kushiro-ct.ac.jp/info)] <!-- [comment]: <[[Photo](@hokkaido)] > -->
+- `Sep.2009` **PR magazine for Department of Information Engineering, Kushiro NCT (国立釧路工業高等専門学校 情報工学科 広報誌)** as a Representative Student of the Department, Kushiro National College of Technology, Hokkaido, Japan. [[Official](https://www.kushiro-ct.ac.jp/info)][[Excerpt (PDF)](./docs/[M1]0805_Media_Leaflet_NCTInfo.pdf)]
 - `Sep.2009` **Hokkaido Newspaper (北海道新聞)** as an Award Winner of the 1st Japan High School Students Sightseeing Presentation Competition, Hokkaido Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#doshin">Excerpt (Image)</a>] [[Official](http://dd.hokkaido-np.co.jp/)]
 - `Sep.2009` **Kushiro Newspaper (釧路新聞)** as an Award Winner of the 1st Japan High School Students Sightseeing Presentation Competition, Hokkaido Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinmedia1">Excerpt (Image)</a>][[Official](http://www.news-kushiro.jp/index.php)]
 - `Oct.2009` **Kushiro Newspaper (釧路新聞)** as an Award Winner of the Kushiro Shimbun Publishing Young Student Award, Kushiro Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinmedia2">Excerpt (Image)</a>][[Official](http://www.news-kushiro.jp/index.php)]

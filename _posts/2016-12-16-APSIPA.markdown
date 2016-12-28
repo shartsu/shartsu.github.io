@@ -1,5 +1,5 @@
 ---
-title: Research Presentation at "APSIPA ASC 2016 @ South Korea"
+title: Research Presentation at "APSIPA ASC 2016" @ South Korea
 layout: post
 ---
 My first time visiting for South Korea was to attend [Asia-Pacific Signal and Information Processing Association, 2016 Annual Summit and Conference (APSIPA ASC 2016)](http://www.apsipa2016.org/main.do). 

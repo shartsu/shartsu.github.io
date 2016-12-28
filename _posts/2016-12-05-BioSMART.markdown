@@ -1,5 +1,5 @@
 ---
-title: Research Presentation at "BioSMART Conference 2016 @ UAE"
+title: Research Presentation at "BioSMART Conference 2016" @ UAE
 layout: post
 ---
 
