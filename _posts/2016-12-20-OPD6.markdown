@@ -5,8 +5,8 @@ layout: post
 
 I gave a short research presentation at [OPEN PAAK DAY #6](https://mtl.recruit.co.jp/events/open-paak-day-6/) of [TECH LAB PAAK](http://techlabpaak.com/) in Shibuya. 
 
-![]({{site.cloudinary_url}}/v1482745500/PAAK2_w5ylkg.jpg){:class="img-100p"}
-
+![]({{site.cloudinary_url}}/c_scale,q_81,w_1200/v1482745500/PAAK2_w5ylkg.jpg){:class="img-100p"}
+http://res.cloudinary.com/schatzi/image/upload/
 The private organization is actually run by Japanese company [Recruit Holdings Co., Ltd.](http://www.recruit-rgf.com/) in order to grow the startup company in Japan. I've participated a support program as the project member for this six months. 
 
 This event was the end-up presentation day of the six months program. I wasn't an entrepreneur but a researcher, though, many other participants were interested in our research project. 
