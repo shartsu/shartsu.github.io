@@ -5,7 +5,7 @@ layout: post
 
 I have finished my master thesis defense at [Graduate School of SIE, University of Tsukuba](http://www.sie.tsukuba.ac.jp/english/).
 
-![]({{site.cloudinary_url}}/v1487498584/3443448131606672607-account_id_2_rc4mce.jpg){:class="img-100p"}
+![]({{site.cloudinary_url}}/v1487500159/3443448131606672607-account_id_2_rc4mce.jpg){:class="img-100p"}
 
 For the defense, participants must contain the whole research project during that degree term. 
 
