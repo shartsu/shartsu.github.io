@@ -11,7 +11,7 @@ layout: profile
 　Takumi KODAMA was born on October 4, 1991, in Hokkaido, Japan. He received his BE in Information Science from University of Tsukuba, Japan in 2012. Later he has studied Computer Science in Graduate School of SIE, University of Tsukuba as well. During 2015-2016, he visited Graz University of Technology, Austria as a research internship student supported by MEXT Japan government scholarship. He is especially interested in Brain-Computer Interface, Machine Learning and Programming Education.
 
 ### Education
-- `Apr.2014-Present` Department of Computer Science, **University of Tsukuba**, Tsukuba, Japan
+- `Apr.2014-Present` Graduate School of System and Information Engineering, Department of Computer Science, **University of Tsukuba**, Tsukuba, Japan
 	- 筑波大学大学院 システム情報工学研究科 コンピュータサイエンス専攻
 - `Aug.2015-Mar.2016` Institute of Neural Engineering, **Graz University of Technology**, Graz, Austria
 	- グラーツ工科大学大学院 神経工学研究科 (オーストリア)
@@ -23,8 +23,7 @@ layout: profile
 ### Research Projects
 - `2016 - 2017` at University of Tsukuba & RIKEN Brain Science Institute
 	- **Tactile P300 BCI Accuracy Refinement** [[At a glance (Slideshare)](http://www.slideshare.net/TakumiKodama/fullbody-tactile-p300based-braincomputer-interface-accuracy-refinement)]
-	- **Full Body Spatial Tactile BCI for ALS patients application** (ongoing)
-	- **Virtual Reality BCI** (ongoing) with bcilab student Kensuke Shimizu
+	- **Virtual Reality BCI** (ongoing) with bcilab student Kensuke SHIMIZU
 - `2015 - 2016` at Graz University of Technology (Austria)
 	- **Hybrid BCI combination with Tactile P300 and SSVEP Paradigm** [[At a glance (Slideshare)](http://www.slideshare.net/TakumiKodama/hybrid-bci-combination-with-tactile-p300-and-ssvep-paradigm)]
 - `2014 - 2015` at Unviersity of Tsukuba
@@ -35,10 +34,11 @@ layout: profile
 ### Research Awards
 - `Nov.2009` **The Kushiro Shimbun Publishing Young Student Award (財団法人 釧路新聞教育芸術振興基金 奨学賞)** as the Representative High School Student of Kushiro National College of Technology from the Promotion Foundation of Education and Arts of Kushiro Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinaward">Photo</a>]
 - `Mar.2012` **Chairman Research Award of IPSJ Hokkaido Branch (一般社団法人 情報処理学会 北海道支部長賞)** for the result of the graduation research in Kushiro National College of Technology from Information Processing Society of Japan (IPSJ), Hokkaido, Japan. [[Official](http://hokkaido.ipsj.or.jp/pukiwiki/index.php?%E6%94%AF%E9%83%A8%E9%95%B7%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85)]
-<!-- [comment]: [[SlideShare](@hokkaido)] -->
 - `Feb.2015` **The Best Poster Award** in the 10th AEARU Workshop on Computer Science and Web Technology (CSWT-2015), Tsukuba, Japan. [<a class="modalimg" href="#aearu">Photo</a>][[Official](http://aearu-cswt2015.sie.tsukuba.ac.jp/)]
 - `Jun.2016` **The Student Travel Award** in the Sixth International Brain-Computer Interface Meeting, CA, USA. [<a class="modalimg" href="#bcimeeting">Photo</a>][[Official](http://bcisociety.org/meetings/bci-meeting-2016-student-travel-award-program/)]
 - `Dec.2016` **Nomination for the Best Student Paper Award Competition** in the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), Dubai, UAE. [[Official](http://www.conf-biosmart.org/biosmart-competition)]
+- `Mar.2017` **Dean award of the Graduate School of SIE, University of Tsukuba** [[Photo]()]
+<!-- [comment]: [[SlideShare](@hokkaido)] -->
 
 ### Journal Article (Peer Reviewed)
 1. <u>T. Kodama</u>, K. Shimizu, S. Makino and T.M. Rutkowski, **"Comparison of P300--based Brain--computer Interface Classification Accuracy Refinement Methods using Full--body Tactile paradigm,"** Journal of Bionic Engineering, (submitted), 2017. <span style="color: red; ">*(Invited)*</span>
@@ -63,14 +63,14 @@ layout: profile
 13. <u>T. Kodama</u> and S. Makino, **"Convolutional Neural Network Architecture and Input Volume Matrix Design for ERP Classifications in a Tactile P300--based Brain--Computer Interface,"** in Proc. the 39th Annual International Confernce of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), IEEE Engineering in Medicine and Biology Society, pp. (submitted), Jul. 2017.
 
 ### Other Publications
-1. 兒玉拓巳. **“観光用リアルタイム画像認識システムの構築 (Development of the Real--time Image Recognition System for a Sightseeing Usage),”** 平成23年度 情報工学科 卒業研究発表講演会, 独立行政法人 国立釧路工業高等専門学校 情報工学科, Mar. 2012. (日本語 / Japanese Language Only) [[At a grance (Youtube)](https://www.youtube.com/watch?v=_XMsg-hkFDE)][[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/ss-64184221)][[Thesis (PDF)](./docs/[O1]1203_Others_Thesis_KushiroNCT.pdf)]
-2. 兒玉拓巳. **“観光用リアルタイム画像認識システムの構築 (Development of the Real--time Image Recognition System for a Sightseeing Usage),”** 創造性を育む「卒業研究」集: 平成23年度版, 独立行政法人 国立高等専門学校機構 教育・FD委員会, pp.149, Oct 2012. (日本語 / Japanese Language Only) [[Book (CiNii)](http://ci.nii.ac.jp/ncid/AA12148693)]
-3. 兒玉拓巳. **“FFT回路を用いたFPGAボイスチェンジャー,”** 筑波大学 COJT第4期ハードエンジニアリング分野成果発表会, 筑波大学情報学群 組み込み技術キャンパスOJT, 国立大学法人 筑波大学, Feb. 2013. (日本語 / Japanese Language Only) [[At a grance (Youtube)](https://www.youtube.com/watch?v=R6EtG7UaVgo&feature=youtu.be&t=10m31s)][[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/the-fpga-voice-changer-using-fft-circuit)][[Github](https://github.com/shartsu/FPGA_FFTChangeVoice)][[Official](http://inf.tsukuba.ac.jp/ET-COJT/)]
+1. <u>兒玉拓巳</u>. **“観光用リアルタイム画像認識システムの構築 (Development of the Real--time Image Recognition System for a Sightseeing Usage),”** 平成23年度 情報工学科 卒業研究発表講演会, 独立行政法人 国立釧路工業高等専門学校 情報工学科, Mar. 2012. (日本語 / Japanese Language Only) [[At a grance (Youtube)](https://www.youtube.com/watch?v=_XMsg-hkFDE)][[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/ss-64184221)][[Thesis (PDF)](./docs/[O1]1203_Others_Thesis_KushiroNCT.pdf)]
+2. <u>兒玉拓巳</u>. **“観光用リアルタイム画像認識システムの構築 (Development of the Real--time Image Recognition System for a Sightseeing Usage),”** 創造性を育む「卒業研究」集: 平成23年度版, 独立行政法人 国立高等専門学校機構 教育・FD委員会, pp.149, Oct 2012. (日本語 / Japanese Language Only) [[Book (CiNii)](http://ci.nii.ac.jp/ncid/AA12148693)]
+3. <u>兒玉拓巳</u>. **“FFT回路を用いたFPGAボイスチェンジャー,”** 筑波大学 COJT第4期ハードエンジニアリング分野成果発表会, 筑波大学情報学群 組み込み技術キャンパスOJT, 国立大学法人 筑波大学, Feb. 2013. (日本語 / Japanese Language Only) [[At a grance (Youtube)](https://www.youtube.com/watch?v=R6EtG7UaVgo&feature=youtu.be&t=10m31s)][[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/the-fpga-voice-changer-using-fft-circuit)][[Github](https://github.com/shartsu/FPGA_FFTChangeVoice)][[Official](http://inf.tsukuba.ac.jp/ET-COJT/)]
 4. <u>T. Kodama</u>, **"Spatial tactile brain-computer interface paradigm by applying vibration stimulus to large body areas,"** Bachelor degree thesis, College of Information Science, University of Tsukuba, Mar. 2014. [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/spatial-tactile-braincomputer-interface-paradigm-by-applying-vibration-stimulus-to-large-body-areas)][[Thesis (PDF)](./docs/[O4]1403_Others_BachelorThesis_Tsukuba.pdf)]
 5. <u>T Kodama</u>, S. Makino and T.M. Rutkowski, **"Full Body Tactile Brain-Computer Interface,"** The Computer Science Seminar, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, Feb. 2015. [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/full-body-tactile-braincomputer-interface-64184788)]
 6. <u>T. Kodama</u>, S. Makino and T.M. Rutkowski, **"A Tactile P300-based Brain-Computer Interface Accuracy Improvement,"**, The Mid-term Presentation for Master's Degree, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, July 2016. [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/a-tactile-p300based-braincomputer-interface-accuracy-improvement)][[Paper (PDF)](./docs/[O6]1607_Others_CSSeminar_Tsukuba.pdf)]
 7. <u>兒玉拓巳</u>, 清水健介, 森啓, 牧野昭二, ルトコフスキ トマシュ マチェイ, **"触覚刺激駆動型BCIの開発と応用 (Review of Stimulus-driven P300-based Tactile BCI Paradigms Developed by BCI-lab group),"** 第3回脳神経外科BMI懇話会 抄録集, 国立大学法人 旭川医科大学 脳神経外科, pp.5, Oct. 2016. (日本語 / Japanese Language Only)[[Paper (PDF)](./docs/[O7]1610_Others_JBMIC_Paper.pdf)][[Poster (PDF)](./docs/[O7]1610_Others_JBMIC_Poster.pdf)][[Report (Blog)](../2016/10/17/JBMIC.html)]
-8. <u>T. Kodama</u>, **"Full Body Spatial Vibrotactile Brain Computer Interface Paradigm,"**, Master's Thesis Defense, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, July 2016. [[Video (Youtube; uploaded on March)]()][[Slide (SlideShare; uploaded on March)]()][[Thesis (PDF; uploaded on March)]()]
+8. <u>T. Kodama</u>, **"Full Body Spatial Vibrotactile Brain Computer Interface Paradigm,"**, Master's Thesis Defense, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, Jan. 2017. [[Video (Youtube; uploaded on March)]()][[Slide (SlideShare; uploaded on March)]()][[Thesis (PDF; uploaded on March)]()]
 <!-- すべてCNNのペーパーがアクセプトされたら公開する -->
 <!-- 動画アップ済み https://www.youtube.com/watch?v=lbSgr0yJSzw&feature=youtu.be -->
 
