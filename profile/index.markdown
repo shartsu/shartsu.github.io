@@ -131,8 +131,10 @@ layout: profile
 ### Lecture / Lightning Talk
 
 [comment]: < - `Feb.2012` **Career guidance for young students in Kushiro National College of Technology ** [[Photo](@hokkaido)] [[SlideShare](@hokkaido)] >
-- `Feb.2016` **Comparison study about the effectiveness of the studying abroad for a research institute in terms of the capability of a Japanese graduate student (海外研究留学実施前後における多面的能力評価の比較研究: 一般大学院生Kさんの場合)**. Lightning Talk for Silicon Valley Workshop 2016 Kick-off, MileStone Graz, Graz, Austria. (日本語 / Japanese Language Only) [[Youtube](https://www.youtube.com/watch?v=f3PGh7vbGT8)][[SlideShare](http://www.slideshare.net/TakumiKodama/k-64267610)]
+- `Feb.2016` **Comparison study about the effectiveness of the studying abroad for a research institute in terms of the capability of a Japanese graduate student (海外研究留学実施前後における多面的能力評価の比較研究: 一般大学院生Kさんの場合),** Lightning Talk for Silicon Valley Workshop 2016 Kick-off, TECH LAB PAAK, Shibuya, Tokyo, Japan. (日本語 / Japanese Language Only) [[Youtube](https://www.youtube.com/watch?v=f3PGh7vbGT8)][[SlideShare](http://www.slideshare.net/TakumiKodama/k-64267610)]
 - `Jul.2016` **How was the studying abroad for a research institute? (『研究留学ってどうよ？』),** トビタテ！留学JAPAN第6期説明会(筑波大学会場), Global Commons at University of Tsukuba, Tsukuba, Japan. (日本語 / Japanese Language Only) [[SlideShare](http://www.slideshare.net/TakumiKodama/ss-64297357)]
+- `Dec.2016` **Virtual Reality Brain-Computer Interface,** Final result presentation of startup accelerate program at OPEN PAAK DAY #6, TECH LAB PAAK, Shibuya, Tokyo, Japan. [[Report (Blog)](../2016/12/20/OPD6.html)]
+- `Feb.2017` **Analysis of the brain activated distributions in response to full-body spatial vibrotactile stimuli using a tactile P300-based BCI paradigm,** RAPID FIRE PRESENTATION at the IEEE International Conference on Biomedical and Health Informatics 2017 (BHI-2017), Orlando, FL, USA. [[Report (Blog); uploaded soon](../2017/02/17/BHI2017.html)]
 
 ### Media
 
