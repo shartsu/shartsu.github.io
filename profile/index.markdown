@@ -11,7 +11,7 @@ layout: profile
 　Takumi KODAMA was born on October 4, 1991, in Hokkaido, Japan. He received his BE in Information Science from University of Tsukuba, Japan in 2012. Later he has studied Computer Science in Graduate School of SIE, University of Tsukuba as well. During 2015-2016, he visited Graz University of Technology, Austria as a research internship student supported by MEXT Japan government scholarship. He is especially interested in Brain-Computer Interface, Machine Learning and Programming Education.
 
 ### Education
-- `Apr.2014-Present` Graduate School of System and Information Engineering, Department of Computer Science, **University of Tsukuba**, Tsukuba, Japan
+- `Apr.2014-Mar.2017` Graduate School of System and Information Engineering, Department of Computer Science, **University of Tsukuba**, Tsukuba, Japan
 	- 筑波大学大学院 システム情報工学研究科 コンピュータサイエンス専攻
 - `Aug.2015-Mar.2016` Institute of Neural Engineering, **Graz University of Technology**, Graz, Austria
 	- グラーツ工科大学大学院 神経工学研究科 (オーストリア)
@@ -23,11 +23,10 @@ layout: profile
 ### Research Projects
 - `2016 - 2017` at University of Tsukuba & RIKEN Brain Science Institute
 	- **Tactile P300 BCI Accuracy Refinement** [[At a glance (Slideshare)](http://www.slideshare.net/TakumiKodama/fullbody-tactile-p300based-braincomputer-interface-accuracy-refinement)]
-	- **Virtual Reality BCI** (ongoing) with bcilab student Kensuke SHIMIZU
 - `2015 - 2016` at Graz University of Technology (Austria)
 	- **Hybrid BCI combination with Tactile P300 and SSVEP Paradigm** [[At a glance (Slideshare)](http://www.slideshare.net/TakumiKodama/hybrid-bci-combination-with-tactile-p300-and-ssvep-paradigm)]
 - `2014 - 2015` at Unviersity of Tsukuba
-	-  **Full Body Spatial Tactile Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=sn6OEBBKsPQ)]
+	- **Full Body Spatial Tactile Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=sn6OEBBKsPQ)]
 - `2013 - 2014` at Unviersity of Tsukuba
 	- **Spatial Tactile Body Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=hMEMDCzIk30)][[Project Summary (bci-lab.info)](http://about.bci-lab.info/projects/btbci)]
 
@@ -37,11 +36,13 @@ layout: profile
 - `Feb.2015` **The Best Poster Award** in the 10th AEARU Workshop on Computer Science and Web Technology (CSWT-2015), Tsukuba, Japan. [<a class="modalimg" href="#aearu">Photo</a>][[Official](http://aearu-cswt2015.sie.tsukuba.ac.jp/)]
 - `Jun.2016` **The Student Travel Award** in the Sixth International Brain-Computer Interface Meeting, CA, USA. [<a class="modalimg" href="#bcimeeting">Photo</a>][[Official](http://bcisociety.org/meetings/bci-meeting-2016-student-travel-award-program/)]
 - `Dec.2016` **Nomination for the Best Student Paper Award Competition** in the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), Dubai, UAE. [[Official](http://www.conf-biosmart.org/biosmart-competition)]
-<!-- - `Mar.2017` **Dean award of the Graduate School of SIE, University of Tsukuba** [[Photo]()] -->
+- `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba"> Photo </a>][[Official](http://www.sie.tsukuba.ac.jp/archive/award/sieawards)]
+- `Mar.2017` **The Representative Master's Degree Receipient of the Graduate School of Systems and Information Engineering (筑波大学システム情報工学研究科 修士号学位記受領者総代)** at the Graduation Celemony of University of Tsukuba 2017, Tsukuba, Japan. [<a class="modalimg" href="#degreetsukuba">Photo</a>]
+
 <!-- [comment]: [[SlideShare](@hokkaido)] -->
 
 ### Journal Article (Peer Reviewed)
-1. <u>T. Kodama</u>, K. Shimizu, S. Makino and T.M. Rutkowski, **"Comparison of P300--based Brain--computer Interface Classification Accuracy Refinement Methods using Full--body Tactile paradigm,"** Journal of Bionic Engineering, (submitted), 2017. <span style="color: red; ">*(Invited)*</span>
+1. <u>T. Kodama</u>, K. Shimizu, S. Makino and T.M. Rutkowski, **"Comparison of P300--based Brain--computer Interface Classification Accuracy Refinement Methods using Full--body Tactile paradigm,"** Journal of Bionic Engineering, (accepted, in press), 2017. <span style="color: red; ">*(Invited)*</span>
 
 ### Book Chapter (Peer Reviewed)
 1. T.M. Rutkowski, K. Shimizu, <u>T. Kodama</u>, P. Jurica and A. Cichocki, **"Brain--robot Interfaces Using Spatial Tactile BCI Paradigms - Symbiotic Brain-robot Applications,"** in <i>Symbiotic Interaction</i> (vol. 9359 of Lecture Notes in Computer Science), B. Blankertz, G. Jacucci, L. Gamberini, A. Spagnolli and J. Freeman Eds., Springer International Publishing, pp. 132-137, Oct. 2015. doi: 10.1007/978-3-319-24917-9_14 [[Chapter (Springer)](http://dx.doi.org/10.1007/978-3-319-24917-9_14)]
@@ -59,8 +60,10 @@ layout: profile
 9. <u>T. Kodama</u>, K. Shimizu, S. Makino and T.M. Rutkowski, **"Full–body Tactile P300–based Brain–computer Interface Accuracy Refinement,"** in Proc. the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), IEEE Press, pp. 20–23, Dec. 2016. doi: - [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/fullbody-tactile-p300based-braincomputer-interface-accuracy-refinement)][Paper (IEEE Xplore; uploaded soon)][[Report (Blog)](../2016/12/05/BioSMART.html)] <span style="color: blue; ">*(Student Best Paper Award Nomination)*</span>
 10. K. Shimizu, <u>T. Kodama</u>, S. Makino and T.M. Rutkowski, **"Visual Motion Onset Virtual Reality Brain–computer Interface,"** in Proc. the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), IEEE Press, pp. 24-27, Dec. 2016. doi: - [Paper (IEEE Xplore; uploaded soon)]
 11. <u>T. Kodama</u>, S. Makino and T.M. Rutkowski, **"Tactile Brain-Computer Interface Using Classification of P300 Responses Evoked by Full Body Spatial Vibrotactile Stimuli,"** in Proc. the Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2016 (APSIPA ASC 2016), IEEE Press, pp. Article ID: 176, Dec. 2016. doi: 10.1109/APSIPA.2016.7820734 [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/tactile-braincomputer-interface-using-classification-of-p300-responses-evoked-by-full-body-spatial-vibrotactile-stimuli)][[Paper (IEEE Xplore)](http://ieeexplore.ieee.org/abstract/document/7820734/)][[Report (Blog)](../2016/12/16/APSIPA.html)]
-12. <u>T. Kodama</u> and S. Makino, **"Analysis of the brain activated distributions in response to full-body spatial vibrotactile stimuli using a tactile P300-based BCI paradigm,"** in Proc. the IEEE International Conference on Biomedical and Health Informatics 2017 (BHI-2017), IEEE Engineering in Medicine and Biology Society, pp. Article ID: 427, Feb. 2017. [[Poster (ResearchGate; uploaeded soon)](./)][[Report (Blog)](../2017/02/17/IEEEBHI.html)]
-13. <u>T. Kodama</u> and S. Makino, **"Convolutional Neural Network Architecture and Input Volume Matrix Design for ERP Classifications in a Tactile P300--based Brain--Computer Interface,"** in Proc. the 39th Annual International Confernce of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), IEEE Engineering in Medicine and Biology Society, pp. (submitted), Jul. 2017.
+12. <u>T. Kodama</u> and S. Makino, **"Analysis of the brain activated distributions in response to full-body spatial vibrotactile stimuli using a tactile P300-based BCI paradigm,"** in Proc. the IEEE International Conference on Biomedical and Health Informatics 2017 (BHI-2017), IEEE Engineering in Medicine and Biology Society, pp. Article ID: 427, Feb. 2017. [[Poster (ResearchGate)](
+https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activated_distributions_in_response_to_full-body_spatial_vibrotactile_stimuli_using_a_tactile_P300-based_BCI_paradigm
+)][[Report (Blog)](../2017/02/17/IEEEBHI.html)]
+13. <u>T. Kodama</u> and S. Makino, **"Convolutional Neural Network Architecture and Input Volume Matrix Design for ERP Classifications in a Tactile P300--based Brain--Computer Interface,"** in Proc. the 39th Annual International Confernce of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), IEEE Engineering in Medicine and Biology Society, pp. (accepted, in press), Jul. 2017.
 
 ### Other Publications
 1. <u>兒玉拓巳</u>. **“観光用リアルタイム画像認識システムの構築 (Development of the Real--time Image Recognition System for a Sightseeing Usage),”** 平成23年度 情報工学科 卒業研究発表講演会, 独立行政法人 国立釧路工業高等専門学校 情報工学科, Mar. 2012. (日本語 / Japanese Language Only) [[At a grance (Youtube)](https://www.youtube.com/watch?v=_XMsg-hkFDE)][[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/ss-64184221)][[Thesis (PDF)](./docs/[O1]1203_Others_Thesis_KushiroNCT.pdf)]
@@ -70,8 +73,8 @@ layout: profile
 5. <u>T Kodama</u>, S. Makino and T.M. Rutkowski, **"Full Body Tactile Brain-Computer Interface,"** The Computer Science Seminar, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, Feb. 2015. [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/full-body-tactile-braincomputer-interface-64184788)]
 6. <u>T. Kodama</u>, S. Makino and T.M. Rutkowski, **"A Tactile P300-based Brain-Computer Interface Accuracy Improvement,"**, The Mid-term Presentation for Master's Degree, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, July 2016. [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/a-tactile-p300based-braincomputer-interface-accuracy-improvement)][[Paper (PDF)](./docs/[O6]1607_Others_CSSeminar_Tsukuba.pdf)]
 7. <u>兒玉拓巳</u>, 清水健介, 森啓, 牧野昭二, ルトコフスキ トマシュ マチェイ, **"触覚刺激駆動型BCIの開発と応用 (Review of Stimulus-driven P300-based Tactile BCI Paradigms Developed by BCI-lab group),"** 第3回脳神経外科BMI懇話会 抄録集, 国立大学法人 旭川医科大学 脳神経外科, pp.5, Oct. 2016. (日本語 / Japanese Language Only)[[Paper (PDF)](./docs/[O7]1610_Others_JBMIC_Paper.pdf)][[Poster (PDF)](./docs/[O7]1610_Others_JBMIC_Poster.pdf)][[Report (Blog)](../2016/10/17/JBMIC.html)]
-8. <u>T. Kodama</u>, **"Full Body Spatial Vibrotactile Brain Computer Interface Paradigm,"**, Master's Thesis Defense, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, Jan. 2017. [[Video (Youtube; uploaded on March)]()][[Slide (SlideShare; uploaded on March)]()][[Thesis (PDF; uploaded on March)]()][[Report (Blog)](../2017/01/26/MasterDefense.html)
-<!-- すべてCNNのペーパーがアクセプトされたら公開する -->
+8. <u>T. Kodama</u>, **"Full Body Spatial Vibrotactile Brain Computer Interface Paradigm,"**, Master's Thesis Defense, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, Jan. 2017. [[Video (Youtube; uploaded after finished EMBC conference)]()][[Slide (PDF; uploaded after finished EMBC conference)]()][[Thesis (PDF; uploaded after finished EMBC conference)]()][[Report (Blog)](../2017/01/26/MasterDefense.html)
+<!-- EMBC -->
 <!-- 動画アップ済み https://www.youtube.com/watch?v=lbSgr0yJSzw&feature=youtu.be -->
 
 ### Research Scholarships / Supports / Selections
@@ -90,7 +93,7 @@ layout: profile
 - `Nov.2012` **The Award of e-Tokushima Promoting Foundation as the Second Prize (第2回 ICTとくしま大賞 準グランプリ ｅ-とくしま推進財団賞)** in the 2nd ICT Tokushima Award Competition for Developing a Smartphone Application by Tokushima Prefectural Government, Tokushima, Japan. [[At a grance (Youtube)](https://www.youtube.com/watch?v=Gwh39V7Q_4U&feature=player_detailpage)][<a class="modalimg" href="#tokushima">Photo</a>][[Official](http://www.pref.tokushima.jp/docs/2012110500057/)]
 - `Jun.2013` **The Best Presentation Award (第1回 いなか自慢コンテスト 総合優秀賞)** in the 1st Inaka Jiman Presentation Competition (talking about own countryside) by WHO DO KEY Project, University of Tsukuba, Tsukuba, Japan. [[Official](https://www.facebook.com/fudoki.inakapresen/posts/500175303387250)]
 - `Dec.2014` **First-round Picked Up Student (ITドラフト会議 2014 第1巡希望選択人材)** by Microsoft Corporation and CyberAgent, Inc. at the IT Draft Conference 2014 Winter, produced by Life is Tech, Inc. Tokyo, Japan. [[At a grance (Youtube)](https://youtu.be/l_mj3lZXZnE?t=391)][<a class="modalimg" href="#draftConf">Photo</a>][[Official](https://life-is-tech.com/draft/)]
-- `Jan.2016` **Selected a participant of the TECH LAB PAAK Silicon Valley Workshop 2016** for visiting California, United States produced by Recruit Holdings Co., Ltd., Tokyo, Japan. [<a class="modalimg" href="#svworkshop">Photo</a>][[Official](http://techlabpaak.com/siliconvalleyworkshop2016)]
+- `Jan.2016` **Selected as a participant of the TECH LAB PAAK Silicon Valley Workshop 2016** for visiting California, United States produced by Recruit Holdings Co., Ltd., Tokyo, Japan. [<a class="modalimg" href="#svworkshop">Photo</a>][[Official](http://techlabpaak.com/siliconvalleyworkshop2016)]
 
 ### Academic Memberships
 
@@ -156,6 +159,8 @@ layout: profile
 <img src="./imgs/award_dec2014_draftConf.jpg" class="modalframe" id="draftConf">
 <img src="./imgs/award_feb2015_aearu.jpg" class="modalframe" id="aearu">
 <img src="./imgs/award_jun2016_bcimeeting.jpg" class="modalframe" id="bcimeeting">
+<img src="./imgs/award_mar2017_deanawardTsukuba.png" class="modalframe" id="deanawardtsukuba">
+<img src="./imgs/award_mar2017_degreeTsukuba.jpg" class="modalframe" id="degreetsukuba">
 <img src="./imgs/award_mar2016_svworkshop.png" class="modalframe" id="svworkshop">
 <img src="./imgs/award_nov2009_senshin.png" class="modalframe" id="senshinaward">
 <img src="./imgs/award_nov2012_tokushima.jpg" class="modalframe" id="tokushima">
@@ -165,3 +170,4 @@ layout: profile
 <img src="./imgs/media_sep2009_senshin.png" class="modalframe" id="senshinmedia2">
 <img src="./imgs/work_graz2015.jpg" class="modalframe" id="graz2015">
 <img src="./imgs/work_recruit2014.jpg" class="modalframe" id="recruit2014">
+

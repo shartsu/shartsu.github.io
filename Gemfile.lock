@@ -6,7 +6,7 @@ GEM
     colorator (1.1.0)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
-    jekyll (3.3.0)
+    jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -17,9 +17,6 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-cloudinary (1.5.2)
-      jekyll (>= 3.0, < 4.0)
-      rmagick (>= 2.0, < 3.0)
     jekyll-responsive_image (1.0.1)
       jekyll (>= 2.0, < 4.0)
       rmagick (>= 2.0, < 3.0)
@@ -42,17 +39,16 @@ GEM
     rmagick (2.16.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.4.22)
+    sass (3.4.23)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   jekyll
-  jekyll-cloudinary
   jekyll-responsive_image
   kramdown
   sass
 
 BUNDLED WITH
-   1.13.1
+   1.14.6
