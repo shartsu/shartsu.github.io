@@ -159,8 +159,8 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 <img src="./imgs/award_dec2014_draftConf.jpg" class="modalframe" id="draftConf">
 <img src="./imgs/award_feb2015_aearu.jpg" class="modalframe" id="aearu">
 <img src="./imgs/award_jun2016_bcimeeting.jpg" class="modalframe" id="bcimeeting">
-<img src="./imgs/award_mar2017_deanawardTsukuba.png" class="modalframe" id="deanawardtsukuba">
-<img src="./imgs/award_mar2017_degreeTsukuba.jpg" class="modalframe" id="degreetsukuba">
+<img src="./imgs/award_mar2017_deanawardTsukuba.jpg" class="modalframe" id="deanawardtsukuba">
+<img src="./imgs/award_mar2017_degreeTsukuba.png" class="modalframe" id="degreetsukuba">
 <img src="./imgs/award_mar2016_svworkshop.png" class="modalframe" id="svworkshop">
 <img src="./imgs/award_nov2009_senshin.png" class="modalframe" id="senshinaward">
 <img src="./imgs/award_nov2012_tokushima.jpg" class="modalframe" id="tokushima">
