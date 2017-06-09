@@ -36,8 +36,8 @@ layout: profile
 - `Feb.2015` **The Best Poster Award** in the 10th AEARU Workshop on Computer Science and Web Technology (CSWT-2015), Tsukuba, Japan. [<a class="modalimg" href="#aearu">Photo</a>][[Official](http://aearu-cswt2015.sie.tsukuba.ac.jp/)]
 - `Jun.2016` **The Student Travel Award** in the Sixth International Brain-Computer Interface Meeting, CA, USA. [<a class="modalimg" href="#bcimeeting">Photo</a>][[Official](http://bcisociety.org/meetings/bci-meeting-2016-student-travel-award-program/)]
 - `Dec.2016` **Nomination for the Best Student Paper Award Competition** in the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), Dubai, UAE. [[Official](http://www.conf-biosmart.org/biosmart-competition)]
-- `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba"> Photo </a>][[Official](http://www.sie.tsukuba.ac.jp/archive/award/sieawards)]
-- `Mar.2017` **The Representative Master's Degree Receipient of the Graduate School of Systems and Information Engineering (筑波大学システム情報工学研究科 修士号学位記受領者総代)** at the Graduation Celemony of University of Tsukuba 2017, Tsukuba, Japan. [<a class="modalimg" href="#degreetsukuba">Photo</a>]
+- `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba">Photo</a>][[Official](http://www.sie.tsukuba.ac.jp/archive/award/sieawards)]
+- `Mar.2017` **The Representative Master's Degree Receipient of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科 修士号学位記受領者総代)** at the Graduation Celemony of University of Tsukuba 2017, Tsukuba, Japan. [<a class="modalimg" href="#degreetsukuba">Photo</a>]
 
 <!-- [comment]: [[SlideShare](@hokkaido)] -->
 
@@ -170,4 +170,3 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 <img src="./imgs/media_sep2009_senshin.png" class="modalframe" id="senshinmedia2">
 <img src="./imgs/work_graz2015.jpg" class="modalframe" id="graz2015">
 <img src="./imgs/work_recruit2014.jpg" class="modalframe" id="recruit2014">
-

@@ -1,0 +1,11 @@
+---
+title: Graduation & Dean Award @ University of Tsukuba
+layout: post
+---
+
+I received the Master's Degree of the Computer Science from the [Graduate School of SIE, University of Tsukuba](http://www.sie.tsukuba.ac.jp/english/) today.
+
+I also received 
+
+<img src="../profile/imgs/award_degreeTsukuba.jpg">
+
