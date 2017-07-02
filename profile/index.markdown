@@ -31,13 +31,15 @@ layout: profile
 	- **Spatial Tactile Body Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=hMEMDCzIk30)][[Project Summary (bci-lab.info)](http://about.bci-lab.info/projects/btbci)]
 
 ### Research Awards
-- `Nov.2009` **The Kushiro Shimbun Publishing Young Student Award (財団法人 釧路新聞教育芸術振興基金 奨学賞)** as the Representative High School Student of Kushiro National College of Technology from the Promotion Foundation of Education and Arts of Kushiro Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinaward">Photo</a>]
-- `Mar.2012` **Chairman Research Award of IPSJ Hokkaido Branch (一般社団法人 情報処理学会 北海道支部長賞)** for the result of the graduation research in Kushiro National College of Technology from Information Processing Society of Japan (IPSJ), Hokkaido, Japan. [[Official](http://hokkaido.ipsj.or.jp/pukiwiki/index.php?%E6%94%AF%E9%83%A8%E9%95%B7%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85)]
-- `Feb.2015` **The Best Poster Award** in the 10th AEARU Workshop on Computer Science and Web Technology (CSWT-2015), Tsukuba, Japan. [<a class="modalimg" href="#aearu">Photo</a>][[Official](http://aearu-cswt2015.sie.tsukuba.ac.jp/)]
-- `Jun.2016` **The Student Travel Award** in the Sixth International Brain-Computer Interface Meeting, CA, USA. [<a class="modalimg" href="#bcimeeting">Photo</a>][[Official](http://bcisociety.org/meetings/bci-meeting-2016-student-travel-award-program/)]
-- `Dec.2016` **Nomination for the Best Student Paper Award Competition** in the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), Dubai, UAE. [[Official](http://www.conf-biosmart.org/biosmart-competition)]
-- `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba">Photo</a>][[Official](http://www.sie.tsukuba.ac.jp/archive/award/sieawards)]
+- `May.2017` **Full Repayment Exemption of JASSO Graduate Student Scholarship Category 1 Loan for Outstanding Achievement (日本学生支援機構 大学院第一種奨学金 特に優れた業績による全額返還免除)** by Japan Student Services Organization. [<a class="modalimg" href="#scholarship">Photo</a>]
 - `Mar.2017` **The Representative Master's Degree Receipient of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科 修士号学位記受領者総代)** at the Graduation Celemony of University of Tsukuba 2017, Tsukuba, Japan. [<a class="modalimg" href="#degreetsukuba">Photo</a>]
+- `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba">Photo</a>][[Official](http://www.sie.tsukuba.ac.jp/archive/award/sieawards)]
+- `Dec.2016` **Nomination for the Best Student Paper Award Competition** in the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), Dubai, UAE. [[Official](http://www.conf-biosmart.org/biosmart-competition)]
+- `Jun.2016` **The Student Travel Award** in the Sixth International Brain-Computer Interface Meeting, CA, USA. [<a class="modalimg" href="#bcimeeting">Photo</a>][[Official](http://bcisociety.org/meetings/bci-meeting-2016-student-travel-award-program/)]
+- `Feb.2015` **TOBITATE! Young Ambassador Study Abroad Scholarship (トビタテ！留学JAPAN 日本代表プログラム 国費留学奨学生)** by Japan Public-Private Partnership Student Study Abroad Program in Ministry of Education, Culture, Sports, Science and Technology (文部科学省 官民協働海外留学支援制度) for the research internship at Graz University of Technology, Graz, Austria. [[Photo (Twitter)](https://twitter.com/ryugakujapan/status/572207675645157376)][[Official](http://www.tobitate.mext.go.jp/)]
+- `Feb.2015` **The Best Poster Award** in the 10th AEARU Workshop on Computer Science and Web Technology (CSWT-2015), Tsukuba, Japan. [<a class="modalimg" href="#aearu">Photo</a>][[Official](http://aearu-cswt2015.sie.tsukuba.ac.jp/)]
+- `Mar.2012` **Chairman Research Award of IPSJ Hokkaido Branch (一般社団法人 情報処理学会 北海道支部長賞)** for the result of the graduation research in Kushiro National College of Technology from Information Processing Society of Japan (IPSJ), Hokkaido, Japan. [[Official](http://hokkaido.ipsj.or.jp/pukiwiki/index.php?%E6%94%AF%E9%83%A8%E9%95%B7%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85)]
+- `Nov.2009` **The Kushiro Shimbun Publishing Young Student Award (財団法人 釧路新聞教育芸術振興基金 奨学賞)** as the Representative High School Student of Kushiro National College of Technology from the Promotion Foundation of Education and Arts of Kushiro Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinaward">Photo</a>]
 
 <!-- [comment]: [[SlideShare](@hokkaido)] -->
 
@@ -77,28 +79,27 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 <!-- EMBC -->
 <!-- 動画アップ済み https://www.youtube.com/watch?v=lbSgr0yJSzw&feature=youtu.be -->
 
-### Research Scholarships / Supports / Selections
-- `Sep.2014` **Travel Support for Overseas Academic Conference Participation** for attending 6th International Brain-Computer Interface Conference 2014 from Study Abroad Support Programs, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
-- `Feb.2015` **TOBITATE! Young Ambassador Study Abroad Scholarship (トビタテ！留学JAPAN 日本代表プログラム 国費奨学金)** by Japan Public-Private Partnership Student Study Abroad Program in Ministry of Education, Culture, Sports, Science and Technology (文部科学省 官民協働海外留学支援制度) for the research internship at Graz University of Technology, Graz, Austria. [[Photo (Twitter)](https://twitter.com/ryugakujapan/status/572207675645157376)][[Official](http://www.tobitate.mext.go.jp/)]
-- `Jul.2016` **Selected a VR course project member of TECH LAB PAAK** for "Research & Development of Virtual Reality Brain-Computer Interface" produced by Recruit Holdings Co., Ltd., Tokyo, Japan. [[Photo (Facebook)](https://www.facebook.com/techlabpaak/photos/a.468633186657261.1073741829.325272037660044/545700698950509/?type=3&theater)][[Official](http://techlabpaak.com/)]
-- `Sep.2016` **The HARA Research Foundation Research Grant Project for Overseas Academic Conference Participation** for attending Asia-Pacific Signal and Information Processing Association, Annual Summit and Conference 2016 (APSIPA ASC 2016) from the HARA Research Foundation, Osaka, Japan. [[Official](http://www.hara-rf.jp/)]
-- `Nov.2016` **Travel Support for Overseas Academic Conference Participation** for attending the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016) from Study Abroad Support Program, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
+### Research Supports / Dispatches / Selections
 - `Nov.2016` **Overseas Dispatch of Graduate Student Travel Support** for attending the IEEE International Conference on Biomedical and Health Informatics (BHI-2017) from University of Tsukuba Study Abroad Support Programs, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/global/scholarship.html)]
+- `Nov.2016` **Travel Support for Overseas Academic Conference Participation** for attending the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016) from Study Abroad Support Program, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
+- `Sep.2016` **The HARA Research Foundation Research Grant Project for Overseas Academic Conference Participation** for attending Asia-Pacific Signal and Information Processing Association, Annual Summit and Conference 2016 (APSIPA ASC 2016) from the HARA Research Foundation, Osaka, Japan. [[Official](http://www.hara-rf.jp/)]
+- `Jul.2016` **Selected a VR course project member of TECH LAB PAAK** for "Research & Development of Virtual Reality Brain-Computer Interface" produced by Recruit Holdings Co., Ltd., Tokyo, Japan. [[Photo (Facebook)](https://www.facebook.com/techlabpaak/photos/a.468633186657261.1073741829.325272037660044/545700698950509/?type=3&theater)][[Official](http://techlabpaak.com/)]
+- `Sep.2014` **Travel Support for Overseas Academic Conference Participation** for attending 6th International Brain-Computer Interface Conference 2014 from Study Abroad Support Programs, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
 
 ### Other Awards / Scholarships / Selections
 
 [comment]: <- for 観光甲子園 [[SlideShare](@hokkaido)][[PDF](@hokkaido)] ->
 [comment]: <- for いなか自慢 [[Photo](@hokkaido)] [[SlideShare](@hokkaido)] ->
-- `Aug.2010` **The Kobe Mayor Award as the Second Prize (第1回 観光甲子園 準グランプリ/神戸市長賞)** in the 1st Japan High School Students Sightseeing Presentation Competition by Kobe Shukugawa Gakuin University, Kobe, Japan. [<a class="modalimg" href="#koshien">Photo</a>][[Official](http://www.sanpou-s.net/kanko-koshien/01/)][[Report (Kushiro NCT)](http://www.kushiro-ct.ac.jp/old2/modules/news/article.php?storyid=313)]
-- `Nov.2012` **The Award of e-Tokushima Promoting Foundation as the Second Prize (第2回 ICTとくしま大賞 準グランプリ ｅ-とくしま推進財団賞)** in the 2nd ICT Tokushima Award Competition for Developing a Smartphone Application by Tokushima Prefectural Government, Tokushima, Japan. [[At a grance (Youtube)](https://www.youtube.com/watch?v=Gwh39V7Q_4U&feature=player_detailpage)][<a class="modalimg" href="#tokushima">Photo</a>][[Official](http://www.pref.tokushima.jp/docs/2012110500057/)]
-- `Jun.2013` **The Best Presentation Award (第1回 いなか自慢コンテスト 総合優秀賞)** in the 1st Inaka Jiman Presentation Competition (talking about own countryside) by WHO DO KEY Project, University of Tsukuba, Tsukuba, Japan. [[Official](https://www.facebook.com/fudoki.inakapresen/posts/500175303387250)]
-- `Dec.2014` **First-round Picked Up Student (ITドラフト会議 2014 第1巡希望選択人材)** by Microsoft Corporation and CyberAgent, Inc. at the IT Draft Conference 2014 Winter, produced by Life is Tech, Inc. Tokyo, Japan. [[At a grance (Youtube)](https://youtu.be/l_mj3lZXZnE?t=391)][<a class="modalimg" href="#draftConf">Photo</a>][[Official](https://life-is-tech.com/draft/)]
 - `Jan.2016` **Selected as a participant of the TECH LAB PAAK Silicon Valley Workshop 2016** for visiting California, United States produced by Recruit Holdings Co., Ltd., Tokyo, Japan. [<a class="modalimg" href="#svworkshop">Photo</a>][[Official](http://techlabpaak.com/siliconvalleyworkshop2016)]
+- `Dec.2014` **First-round Picked Up Student (ITドラフト会議 2014 第1巡希望選択人材)** by Microsoft Corporation and CyberAgent, Inc. at the IT Draft Conference 2014 Winter, produced by Life is Tech, Inc. Tokyo, Japan. [[At a grance (Youtube)](https://youtu.be/l_mj3lZXZnE?t=391)][<a class="modalimg" href="#draftConf">Photo</a>][[Official](https://life-is-tech.com/draft/)]
+- `Jun.2013` **The Best Presentation Award (第1回 いなか自慢コンテスト 総合優秀賞)** in the 1st Inaka Jiman Presentation Competition (talking about own countryside) by WHO DO KEY Project, University of Tsukuba, Tsukuba, Japan. [[Official](https://www.facebook.com/fudoki.inakapresen/posts/500175303387250)]
+- `Nov.2012` **The Award of e-Tokushima Promoting Foundation as the Second Prize (第2回 ICTとくしま大賞 準グランプリ ｅ-とくしま推進財団賞)** in the 2nd ICT Tokushima Award Competition for Developing a Smartphone Application by Tokushima Prefectural Government, Tokushima, Japan. [[At a grance (Youtube)](https://www.youtube.com/watch?v=Gwh39V7Q_4U&feature=player_detailpage)][<a class="modalimg" href="#tokushima">Photo</a>][[Official](http://www.pref.tokushima.jp/docs/2012110500057/)]
+- `Aug.2010` **The Kobe Mayor Award as the Second Prize (第1回 観光甲子園 準グランプリ/神戸市長賞)** in the 1st Japan High School Students Sightseeing Presentation Competition by Kobe Shukugawa Gakuin University, Kobe, Japan. [<a class="modalimg" href="#koshien">Photo</a>][[Official](http://www.sanpou-s.net/kanko-koshien/01/)][[Report (Kushiro NCT)](http://www.kushiro-ct.ac.jp/old2/modules/news/article.php?storyid=313)]
 
 ### Academic Memberships
 
-- `Mar.2015-Present` ***Student Member***, Information Processing Society of Japan (IPSJ), Japan.
 - `Aug.2016-Present` ***Student Member***, Institute of Electrical and Electronics Engineers (IEEE), USA.
+- `Mar.2015-Present` ***Student Member***, Information Processing Society of Japan (IPSJ), Japan.
 
 ### Teaching Experience
 
@@ -106,15 +107,15 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 
 ### Working and Internship Experience
 
-- `Mar.2013-Present` **Life is Tech!, Inc.**, Tokyo, Japan. [[Official](https://life-is-tech.com/)]
+- `Mar.2013-Mar.2017` **Life is Tech!, Inc.**, Tokyo, Japan. [[Official](https://life-is-tech.com/)]
 	- as a Programming Lecturer for High and Junior-high School Students
 	- as a Project Management of Life is Tech! Leaders Program [[Official](https://life-is-tech.com/leaders)]
 	- as a Leader of a Curriculum Development Division (Windows 8 / Web Design Course)
 	- as a Member of the Sales Division
-- `Jul.2013-Present` **University of Tsukuba**, Tsukuba, Japan.
+- `Jul.2013-Mar.2017` **University of Tsukuba**, Tsukuba, Japan.
 	- as a Student Research Assistant for Multimedia Laboratory in Department of Computer Science [[Official](https://www.mmlab.cs.tsukuba.ac.jp/)]
 	- as a Technical Advisor for the Area Studies Innovation Program (ASIP) in Graduate School of Humanities and Social Sciences [[Official](http://asip.hass.tsukuba.ac.jp/en/index.html)]
-- `Jul.2016-Present` **SkyBall, Inc.**, Tokyo, Japan. [[Official](http://www.skyball.jp/)]
+- `Jul.2016-Mar.2017` **SkyBall, Inc.**, Tokyo, Japan. [[Official](http://www.skyball.jp/)]
 	- as a Planner
 	- as a Movie Cameraman & Editor
 - `Aug.2015-Mar.2016` **Graz University of Technology**, Graz, Austria.
@@ -134,33 +135,34 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 ### Lecture / Lightning Talk
 
 [comment]: < - `Feb.2012` **Career guidance for young students in Kushiro National College of Technology ** [[Photo](@hokkaido)] [[SlideShare](@hokkaido)] >
-- `Feb.2016` **Comparison study about the effectiveness of the studying abroad for a research institute in terms of the capability of a Japanese graduate student (海外研究留学実施前後における多面的能力評価の比較研究: 一般大学院生Kさんの場合),** Lightning Talk for Silicon Valley Workshop 2016 Kick-off, TECH LAB PAAK, Shibuya, Tokyo, Japan. (日本語 / Japanese Language Only) [[Youtube](https://www.youtube.com/watch?v=f3PGh7vbGT8)][[SlideShare](http://www.slideshare.net/TakumiKodama/k-64267610)]
-- `Jul.2016` **How was the studying abroad for a research institute? (『研究留学ってどうよ？』),** トビタテ！留学JAPAN第6期説明会(筑波大学会場), Global Commons at University of Tsukuba, Tsukuba, Japan. (日本語 / Japanese Language Only) [[SlideShare](http://www.slideshare.net/TakumiKodama/ss-64297357)]
-- `Dec.2016` **Virtual Reality Brain-Computer Interface,** Final result presentation of startup accelerate program at OPEN PAAK DAY #6, TECH LAB PAAK, Shibuya, Tokyo, Japan. [[Report (Blog)](../2016/12/20/OPD6.html)]
 - `Feb.2017` **Analysis of the brain activated distributions in response to full-body spatial vibrotactile stimuli using a tactile P300-based BCI paradigm,** RAPID FIRE PRESENTATION at the IEEE International Conference on Biomedical and Health Informatics 2017 (BHI-2017), Orlando, FL, USA. [[Report (Blog); uploaded soon](../2017/02/17/BHI2017.html)]
+- `Dec.2016` **Virtual Reality Brain-Computer Interface,** Final result presentation of startup accelerate program at OPEN PAAK DAY #6, TECH LAB PAAK, Shibuya, Tokyo, Japan. [[Report (Blog)](../2016/12/20/OPD6.html)]
+- `Jul.2016` **How was the studying abroad for a research institute? (『研究留学ってどうよ？』),** トビタテ！留学JAPAN第6期説明会(筑波大学会場), Global Commons at University of Tsukuba, Tsukuba, Japan. (日本語 / Japanese Language Only) [[SlideShare](http://www.slideshare.net/TakumiKodama/ss-64297357)]
+- `Feb.2016` **Comparison study about the effectiveness of the studying abroad for a research institute in terms of the capability of a Japanese graduate student (海外研究留学実施前後における多面的能力評価の比較研究: 一般大学院生Kさんの場合),** Lightning Talk for Silicon Valley Workshop 2016 Kick-off, TECH LAB PAAK, Shibuya, Tokyo, Japan. (日本語 / Japanese Language Only) [[Youtube](https://www.youtube.com/watch?v=f3PGh7vbGT8)][[SlideShare](http://www.slideshare.net/TakumiKodama/k-64267610)]
 
 ### Media
 
+- `Dec.2014` **World Business Satellite (ワールドビジネスサテライト)** as a Representative Student in the special program of "Call for a programmer! (プログラマー求む！)", TV Tokyo, Tokyo, Japan. [<a class="modalimg" href="#wbs">Capture (Image)</a>][[Official](http://txbiz.tv-tokyo.co.jp/wbs/feature/post_81247/)]
+- `Dec.2009` **Kushiro National College of Technology Campus Magazine (釧路高専だより)** as an Award Winner of 1st Japan High School Students Sightseeing Presentation Competition, Kushiro National College of Technology, Hokkaido, Japan.
 - `Sep.2009` **PR magazine for Department of Information Engineering, Kushiro NCT (国立釧路工業高等専門学校 情報工学科 広報誌)** as a Representative Student of the Department, Kushiro National College of Technology, Hokkaido, Japan. [[Official](https://www.kushiro-ct.ac.jp/info)][[Excerpt (PDF)](./docs/[M1]0805_Media_Leaflet_NCTInfo.pdf)]
+- `Oct.2009` **Kushiro Newspaper (釧路新聞)** as an Award Winner of the Kushiro Shimbun Publishing Young Student Award, Kushiro Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinmedia2">Excerpt (Image)</a>][[Official](http://www.news-kushiro.jp/index.php)]
 - `Sep.2009` **Hokkaido Newspaper (北海道新聞)** as an Award Winner of the 1st Japan High School Students Sightseeing Presentation Competition, Hokkaido Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#doshin">Excerpt (Image)</a>] [[Official](http://dd.hokkaido-np.co.jp/)]
 - `Sep.2009` **Kushiro Newspaper (釧路新聞)** as an Award Winner of the 1st Japan High School Students Sightseeing Presentation Competition, Hokkaido Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinmedia1">Excerpt (Image)</a>][[Official](http://www.news-kushiro.jp/index.php)]
-- `Oct.2009` **Kushiro Newspaper (釧路新聞)** as an Award Winner of the Kushiro Shimbun Publishing Young Student Award, Kushiro Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinmedia2">Excerpt (Image)</a>][[Official](http://www.news-kushiro.jp/index.php)]
-- `Dec.2009` **Kushiro National College of Technology Campus Magazine (釧路高専だより)** as an Award Winner of 1st Japan High School Students Sightseeing Presentation Competition, Kushiro National College of Technology, Hokkaido, Japan.
 [[Excerpt (PDF)](./docs/[M5]0912_Media_Newsletter_KushiroNCT.pdf)][[Official](http://www.kushiro-ct.ac.jp/modules/pico/index.php?content_id=109)]
-- `Dec.2014` **World Business Satellite (ワールドビジネスサテライト)** as a Representative Student in the special program of "Call for a programmer! (プログラマー求む！)", TV Tokyo, Tokyo, Japan. [<a class="modalimg" href="#wbs">Capture (Image)</a>][[Official](http://txbiz.tv-tokyo.co.jp/wbs/feature/post_81247/)]
 
-### Activity
+<!-- ### Activity
 - `Apr.2012-Mar.2014` **Tsukuba-daigaku Kirikirimai (筑波大学 斬桐舞)** as a Yosakoi Soran Dancer and Student Travel Organizer, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#kirikiri2012">Photo</a>][[Official](http://thekirikirimai.tsukuba.ch/)]
 - `Oct.2012-Sep.2014` **Tsukuba-daigaku Hokkaido-Minkai (筑波大学 北海道民会)** as the President Student and Organizer, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#hokkaido2012">Photo</a>][[Official](https://www.facebook.com/dominkai.tkb/?fref=ts)]
-
+ -->
 <img src="./imgs/activity_kirikiri2012.jpg" class="modalframe" id="kirikiri2012">
 <img src="./imgs/activity_hokkaido2012.jpg" class="modalframe" id="hokkaido2012">
 <img src="./imgs/award_aug2010_koshien.png" class="modalframe" id="koshien">
 <img src="./imgs/award_dec2014_draftConf.jpg" class="modalframe" id="draftConf">
 <img src="./imgs/award_feb2015_aearu.jpg" class="modalframe" id="aearu">
 <img src="./imgs/award_jun2016_bcimeeting.jpg" class="modalframe" id="bcimeeting">
-<img src="./imgs/award_mar2017_deanawardTsukuba.jpg" class="modalframe" id="deanawardtsukuba">
-<img src="./imgs/award_mar2017_degreeTsukuba.png" class="modalframe" id="degreetsukuba">
+<img src="./imgs/award_mar2017_deanawardTsukuba.png" class="modalframe" id="deanawardtsukuba">
+<img src="./imgs/award_mar2017_degreeTsukuba.jpg" class="modalframe" id="degreetsukuba">
+<img src="./imgs/award_may2017_scholarshipExemption.png" class="modalframe" id="scholarship">
 <img src="./imgs/award_mar2016_svworkshop.png" class="modalframe" id="svworkshop">
 <img src="./imgs/award_nov2009_senshin.png" class="modalframe" id="senshinaward">
 <img src="./imgs/award_nov2012_tokushima.jpg" class="modalframe" id="tokushima">

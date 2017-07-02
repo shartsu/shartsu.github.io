@@ -11,8 +11,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://shartsu.github.io" # the base hostname & protocol for your site
 
 cloudinary_url: "http://res.cloudinary.com/schatzi/image/upload"
-github_username:	shartsu
-flickr_username:	shartsu
+github_username:	takschatzl
+flickr_username:	takschatzl
 
 # Build settings
 markdown: kramdown
