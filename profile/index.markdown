@@ -8,7 +8,7 @@ layout: profile
 
 ### Biography
 
-　Takumi KODAMA was born on October 4, 1991, in Hokkaido, Japan. He received his BE in Information Science from University of Tsukuba, Japan in 2012. Later he has studied Computer Science in Graduate School of SIE, University of Tsukuba as well. During 2015-2016, he visited Graz University of Technology, Austria as a research internship student supported by MEXT Japan government scholarship. He is especially interested in Brain-Computer Interface, Machine Learning and Programming Education.
+　Takumi KODAMA was born on October 4, 1991, in Hokkaido, Japan. He received his MSc in Engineering (Compute Scienice) from Graduate School of SIE, University of Tsukuba, Japan in 2017. During 2015-2016, he visited Graz University of Technology, Austria as a research internship student supported by MEXT Japan government scholarship. He is especially interested in the Brain-Computer Interface, Machine Learning and Programming Education.
 
 ### Education
 - `Apr.2014-Mar.2017` Graduate School of System and Information Engineering, Department of Computer Science, **University of Tsukuba**, Tsukuba, Japan
