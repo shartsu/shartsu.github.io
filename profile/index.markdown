@@ -21,6 +21,8 @@ layout: profile
 	- 国立釧路工業高等専門学校 情報工学科
 
 ### Research Projects
+- `2017 - 2018` at University of Tsukuba
+	- **P300 ERP classifications with neural network models**
 - `2016 - 2017` at University of Tsukuba & RIKEN Brain Science Institute
 	- **Tactile P300 BCI Accuracy Refinement** [[At a glance (Slideshare)](http://www.slideshare.net/TakumiKodama/fullbody-tactile-p300based-braincomputer-interface-accuracy-refinement)]
 - `2015 - 2016` at Graz University of Technology (Austria)
@@ -31,10 +33,11 @@ layout: profile
 	- **Spatial Tactile Body Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=hMEMDCzIk30)][[Project Summary (bci-lab.info)](http://about.bci-lab.info/projects/btbci)]
 
 ### Research Awards
-- `May.2017` **Full Repayment Exemption of JASSO Graduate Student Scholarship Category 1 Loan for Outstanding Achievement (日本学生支援機構 大学院第一種奨学金 特に優れた業績による全額返還免除)** by Japan Student Services Organization. [<a class="modalimg" href="#scholarship">Photo</a>]
-- `Mar.2017` **The Representative Master's Degree Receipient of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科 修士号学位記受領者総代)** at the Graduation Celemony of University of Tsukuba 2017, Tsukuba, Japan. [<a class="modalimg" href="#degreetsukuba">Photo</a>]
-- `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba">Photo</a>][[Official](http://www.sie.tsukuba.ac.jp/archive/award/sieawards)]
-- `Dec.2016` **Nomination for the Best Student Paper Award Competition** in the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), Dubai, UAE. [[Official](http://www.conf-biosmart.org/biosmart-competition)]
+- `Jul.2017` **Finalist in the 2017 EMBS Student Paper Competition** at the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), Jeju, Korea. [[Photo]()] [[Brochure(PDF)]()][[Certificate]()][[Official](https://embc.embs.org/2017/student-paper-competition-finalists/)]
+- `May.2017` **Full Repayment Exemption of JASSO Graduate Student Scholarship Category 1 Loan for Outstanding Achievement (日本学生支援機構 大学院第一種奨学金 特に優れた業績による全額返還免除)** by Japan Student Services Organization, Tokyo, Japan. [<a class="modalimg" href="#scholarship">Certificate</a>]
+- `Mar.2017` **The Representative Master's Degree Receipient of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科 修士号学位記受領者総代)** at the Graduation Ceremony of University of Tsukuba 2017, Tsukuba, Japan. [<a class="modalimg" href="#degreetsukuba">Photo</a>]
+- `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba">Photo</a>][[Official](http://www.cs.tsukuba.ac.jp/internal/awards.html)]
+- `Dec.2016` **Finalist in the BioSMART 2016 Best Student Paper Award Competition** at the 1st International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016), Dubai, UAE. [[Official](http://www.conf-biosmart.org/biosmart-competition)]
 - `Jun.2016` **The Student Travel Award** in the Sixth International Brain-Computer Interface Meeting, CA, USA. [<a class="modalimg" href="#bcimeeting">Photo</a>][[Official](http://bcisociety.org/meetings/bci-meeting-2016-student-travel-award-program/)]
 - `Feb.2015` **TOBITATE! Young Ambassador Study Abroad Scholarship (トビタテ！留学JAPAN 日本代表プログラム 国費留学奨学生)** by Japan Public-Private Partnership Student Study Abroad Program in Ministry of Education, Culture, Sports, Science and Technology (文部科学省 官民協働海外留学支援制度) for the research internship at Graz University of Technology, Graz, Austria. [[Photo (Twitter)](https://twitter.com/ryugakujapan/status/572207675645157376)][[Official](http://www.tobitate.mext.go.jp/)]
 - `Feb.2015` **The Best Poster Award** in the 10th AEARU Workshop on Computer Science and Web Technology (CSWT-2015), Tsukuba, Japan. [<a class="modalimg" href="#aearu">Photo</a>][[Official](http://aearu-cswt2015.sie.tsukuba.ac.jp/)]
@@ -65,7 +68,7 @@ layout: profile
 12. <u>T. Kodama</u> and S. Makino, **"Analysis of the brain activated distributions in response to full-body spatial vibrotactile stimuli using a tactile P300-based BCI paradigm,"** in Proc. the IEEE International Conference on Biomedical and Health Informatics 2017 (BHI-2017), IEEE Engineering in Medicine and Biology Society, pp. Article ID: 427, Feb. 2017. [[Poster (ResearchGate)](
 https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activated_distributions_in_response_to_full-body_spatial_vibrotactile_stimuli_using_a_tactile_P300-based_BCI_paradigm
 )][[Report (Blog)](../2017/02/17/IEEEBHI.html)]
-13. <u>T. Kodama</u> and S. Makino, **"Convolutional Neural Network Architecture and Input Volume Matrix Design for ERP Classifications in a Tactile P300--based Brain--Computer Interface,"** in Proc. the 39th Annual International Confernce of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), IEEE Engineering in Medicine and Biology Society, pp. (accepted, in press), Jul. 2017.
+13. <u>T. Kodama</u> and S. Makino, **"Convolutional Neural Network Architecture and Input Volume Matrix Design for ERP Classifications in a Tactile P300--based Brain--Computer Interface,"** in Proc. the 39th Annual International Confernce of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), IEEE Engineering in Medicine and Biology Society, pp. 3814-3817, Jul. 2017. <span style="color: blue; ">*(Student Best Paper Award Nomination)*</span>
 
 ### Other Publications
 1. <u>兒玉拓巳</u>. **“観光用リアルタイム画像認識システムの構築 (Development of the Real--time Image Recognition System for a Sightseeing Usage),”** 平成23年度 情報工学科 卒業研究発表講演会, 独立行政法人 国立釧路工業高等専門学校 情報工学科, Mar. 2012. (日本語 / Japanese Language Only) [[At a grance (Youtube)](https://www.youtube.com/watch?v=_XMsg-hkFDE)][[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/ss-64184221)][[Thesis (PDF)](./docs/[O1]1203_Others_Thesis_KushiroNCT.pdf)]
@@ -80,16 +83,16 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 <!-- 動画アップ済み https://www.youtube.com/watch?v=lbSgr0yJSzw&feature=youtu.be -->
 
 ### Research Supports / Dispatches / Selections
+- `Jul.2017` **The Travel Reimbursement Stipend in IEEE US Funds** for attending the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017) from the IEEE Engineering in Medicine and Biology Society (EMBS), NJ, USA. [[Brochure(PDF)]()][[Official](https://embc.embs.org/2017/student-paper-competition/)] 
 - `Nov.2016` **Overseas Dispatch of Graduate Student Travel Support** for attending the IEEE International Conference on Biomedical and Health Informatics (BHI-2017) from University of Tsukuba Study Abroad Support Programs, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/global/scholarship.html)]
 - `Nov.2016` **Travel Support for Overseas Academic Conference Participation** for attending the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016) from Study Abroad Support Program, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
 - `Sep.2016` **The HARA Research Foundation Research Grant Project for Overseas Academic Conference Participation** for attending Asia-Pacific Signal and Information Processing Association, Annual Summit and Conference 2016 (APSIPA ASC 2016) from the HARA Research Foundation, Osaka, Japan. [[Official](http://www.hara-rf.jp/)]
 - `Jul.2016` **Selected a VR course project member of TECH LAB PAAK** for "Research & Development of Virtual Reality Brain-Computer Interface" produced by Recruit Holdings Co., Ltd., Tokyo, Japan. [[Photo (Facebook)](https://www.facebook.com/techlabpaak/photos/a.468633186657261.1073741829.325272037660044/545700698950509/?type=3&theater)][[Official](http://techlabpaak.com/)]
+- `May.2016` **NSF Student Travel Support** for attending the Sixth International Brain-Computer Interface Meeting: from the National Institutes of Health and the National Science Foundation (NSF), Virginia, US. [[Official](http://bcisociety.org/meetings/student-information/)]
 - `Sep.2014` **Travel Support for Overseas Academic Conference Participation** for attending 6th International Brain-Computer Interface Conference 2014 from Study Abroad Support Programs, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
 
 ### Other Awards / Scholarships / Selections
 
-[comment]: <- for 観光甲子園 [[SlideShare](@hokkaido)][[PDF](@hokkaido)] ->
-[comment]: <- for いなか自慢 [[Photo](@hokkaido)] [[SlideShare](@hokkaido)] ->
 - `Jan.2016` **Selected as a participant of the TECH LAB PAAK Silicon Valley Workshop 2016** for visiting California, United States produced by Recruit Holdings Co., Ltd., Tokyo, Japan. [<a class="modalimg" href="#svworkshop">Photo</a>][[Official](http://techlabpaak.com/siliconvalleyworkshop2016)]
 - `Dec.2014` **First-round Picked Up Student (ITドラフト会議 2014 第1巡希望選択人材)** by Microsoft Corporation and CyberAgent, Inc. at the IT Draft Conference 2014 Winter, produced by Life is Tech, Inc. Tokyo, Japan. [[At a grance (Youtube)](https://youtu.be/l_mj3lZXZnE?t=391)][<a class="modalimg" href="#draftConf">Photo</a>][[Official](https://life-is-tech.com/draft/)]
 - `Jun.2013` **The Best Presentation Award (第1回 いなか自慢コンテスト 総合優秀賞)** in the 1st Inaka Jiman Presentation Competition (talking about own countryside) by WHO DO KEY Project, University of Tsukuba, Tsukuba, Japan. [[Official](https://www.facebook.com/fudoki.inakapresen/posts/500175303387250)]
@@ -107,14 +110,15 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 
 ### Working and Internship Experience
 
+- `Apr.2017-Present` **Recruit Holdings Co., Ltd.**, Tokyo, Japan. [[Official](http://www.recruit-rgf.com/)]
+- `Jul.2013-Mar.2017` **University of Tsukuba**, Tsukuba, Japan.
+	- as a Student Research Assistant for Multimedia Laboratory in Department of Computer Science [[Official](https://www.mmlab.cs.tsukuba.ac.jp/)]
+	- as a Technical Advisor for the Area Studies Innovation Program (ASIP) in Graduate School of Humanities and Social Sciences [[Official](http://asip.hass.tsukuba.ac.jp/en/index.html)]
 - `Mar.2013-Mar.2017` **Life is Tech!, Inc.**, Tokyo, Japan. [[Official](https://life-is-tech.com/)]
 	- as a Programming Lecturer for High and Junior-high School Students
 	- as a Project Management of Life is Tech! Leaders Program [[Official](https://life-is-tech.com/leaders)]
 	- as a Leader of a Curriculum Development Division (Windows 8 / Web Design Course)
 	- as a Member of the Sales Division
-- `Jul.2013-Mar.2017` **University of Tsukuba**, Tsukuba, Japan.
-	- as a Student Research Assistant for Multimedia Laboratory in Department of Computer Science [[Official](https://www.mmlab.cs.tsukuba.ac.jp/)]
-	- as a Technical Advisor for the Area Studies Innovation Program (ASIP) in Graduate School of Humanities and Social Sciences [[Official](http://asip.hass.tsukuba.ac.jp/en/index.html)]
 - `Jul.2016-Mar.2017` **SkyBall, Inc.**, Tokyo, Japan. [[Official](http://www.skyball.jp/)]
 	- as a Planner
 	- as a Movie Cameraman & Editor
@@ -134,7 +138,6 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 
 ### Lecture / Lightning Talk
 
-[comment]: < - `Feb.2012` **Career guidance for young students in Kushiro National College of Technology ** [[Photo](@hokkaido)] [[SlideShare](@hokkaido)] >
 - `Feb.2017` **Analysis of the brain activated distributions in response to full-body spatial vibrotactile stimuli using a tactile P300-based BCI paradigm,** RAPID FIRE PRESENTATION at the IEEE International Conference on Biomedical and Health Informatics 2017 (BHI-2017), Orlando, FL, USA. [[Report (Blog); uploaded soon](../2017/02/17/BHI2017.html)]
 - `Dec.2016` **Virtual Reality Brain-Computer Interface,** Final result presentation of startup accelerate program at OPEN PAAK DAY #6, TECH LAB PAAK, Shibuya, Tokyo, Japan. [[Report (Blog)](../2016/12/20/OPD6.html)]
 - `Jul.2016` **How was the studying abroad for a research institute? (『研究留学ってどうよ？』),** トビタテ！留学JAPAN第6期説明会(筑波大学会場), Global Commons at University of Tsukuba, Tsukuba, Japan. (日本語 / Japanese Language Only) [[SlideShare](http://www.slideshare.net/TakumiKodama/ss-64297357)]
@@ -150,10 +153,6 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 - `Sep.2009` **Kushiro Newspaper (釧路新聞)** as an Award Winner of the 1st Japan High School Students Sightseeing Presentation Competition, Hokkaido Shimbun Publishing, Hokkaido, Japan. [<a class="modalimg" href="#senshinmedia1">Excerpt (Image)</a>][[Official](http://www.news-kushiro.jp/index.php)]
 [[Excerpt (PDF)](./docs/[M5]0912_Media_Newsletter_KushiroNCT.pdf)][[Official](http://www.kushiro-ct.ac.jp/modules/pico/index.php?content_id=109)]
 
-<!-- ### Activity
-- `Apr.2012-Mar.2014` **Tsukuba-daigaku Kirikirimai (筑波大学 斬桐舞)** as a Yosakoi Soran Dancer and Student Travel Organizer, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#kirikiri2012">Photo</a>][[Official](http://thekirikirimai.tsukuba.ch/)]
-- `Oct.2012-Sep.2014` **Tsukuba-daigaku Hokkaido-Minkai (筑波大学 北海道民会)** as the President Student and Organizer, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#hokkaido2012">Photo</a>][[Official](https://www.facebook.com/dominkai.tkb/?fref=ts)]
- -->
 <img src="./imgs/activity_kirikiri2012.jpg" class="modalframe" id="kirikiri2012">
 <img src="./imgs/activity_hokkaido2012.jpg" class="modalframe" id="hokkaido2012">
 <img src="./imgs/award_aug2010_koshien.png" class="modalframe" id="koshien">
