@@ -22,7 +22,7 @@ layout: profile
 
 ### Research Projects
 - `2017 - 2018` at University of Tsukuba
-	- **P300 ERP classifications with neural network models**
+	- **Tactile P300 ERP Classification with Neural Network Models**
 - `2016 - 2017` at University of Tsukuba & RIKEN Brain Science Institute
 	- **Tactile P300 BCI Accuracy Refinement** [[At a glance (Slideshare)](http://www.slideshare.net/TakumiKodama/fullbody-tactile-p300based-braincomputer-interface-accuracy-refinement)]
 - `2015 - 2016` at Graz University of Technology (Austria)
@@ -33,7 +33,7 @@ layout: profile
 	- **Spatial Tactile Body Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=hMEMDCzIk30)][[Project Summary (bci-lab.info)](http://about.bci-lab.info/projects/btbci)]
 
 ### Research Awards
-- `Jul.2017` **Finalist in the 2017 EMBS Student Paper Competition** at the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), Jeju, Korea. [[Photo]()] [[Brochure(PDF)]()][[Certificate]()][[Official](https://embc.embs.org/2017/student-paper-competition-finalists/)]
+- `Jul.2017` **Finalist in the 2017 EMBS Student Paper Competition** at the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), Jeju, Korea. [[Photo]()] [<a class="modalimg" href="#brochureembc2017">Brochure</a>][<a class="modalimg" href="#embs2017">Certificate</a>][[Official](https://embc.embs.org/2017/student-paper-competition-finalists/)]
 - `May.2017` **Full Repayment Exemption of JASSO Graduate Student Scholarship Category 1 Loan for Outstanding Achievement (日本学生支援機構 大学院第一種奨学金 特に優れた業績による全額返還免除)** by Japan Student Services Organization, Tokyo, Japan. [<a class="modalimg" href="#scholarship">Certificate</a>]
 - `Mar.2017` **The Representative Master's Degree Receipient of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科 修士号学位記受領者総代)** at the Graduation Ceremony of University of Tsukuba 2017, Tsukuba, Japan. [<a class="modalimg" href="#degreetsukuba">Photo</a>]
 - `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba">Photo</a>][[Official](http://www.cs.tsukuba.ac.jp/internal/awards.html)]
@@ -67,8 +67,8 @@ layout: profile
 11. <u>T. Kodama</u>, S. Makino and T.M. Rutkowski, **"Tactile Brain-Computer Interface Using Classification of P300 Responses Evoked by Full Body Spatial Vibrotactile Stimuli,"** in Proc. the Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2016 (APSIPA ASC 2016), IEEE Press, pp. Article ID: 176, Dec. 2016. doi: 10.1109/APSIPA.2016.7820734 [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/tactile-braincomputer-interface-using-classification-of-p300-responses-evoked-by-full-body-spatial-vibrotactile-stimuli)][[Paper (IEEE Xplore)](http://ieeexplore.ieee.org/abstract/document/7820734/)][[Report (Blog)](../2016/12/16/APSIPA.html)]
 12. <u>T. Kodama</u> and S. Makino, **"Analysis of the brain activated distributions in response to full-body spatial vibrotactile stimuli using a tactile P300-based BCI paradigm,"** in Proc. the IEEE International Conference on Biomedical and Health Informatics 2017 (BHI-2017), IEEE Engineering in Medicine and Biology Society, pp. Article ID: 427, Feb. 2017. [[Poster (ResearchGate)](
 https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activated_distributions_in_response_to_full-body_spatial_vibrotactile_stimuli_using_a_tactile_P300-based_BCI_paradigm
-)][[Report (Blog)](../2017/02/17/IEEEBHI.html)]
-13. <u>T. Kodama</u> and S. Makino, **"Convolutional Neural Network Architecture and Input Volume Matrix Design for ERP Classifications in a Tactile P300--based Brain--Computer Interface,"** in Proc. the 39th Annual International Confernce of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), IEEE Engineering in Medicine and Biology Society, pp. 3814-3817, Jul. 2017. <span style="color: blue; ">*(Student Best Paper Award Nomination)*</span>
+)][[Report (Blog)]()]
+13. <u>T. Kodama</u> and S. Makino, **"Convolutional Neural Network Architecture and Input Volume Matrix Design for ERP Classifications in a Tactile P300--based Brain--Computer Interface,"** in Proc. the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), IEEE Engineering in Medicine and Biology Society, pp. 3814-3817, Jul. 2017. [[Video (Youtube)](https://www.youtube.com/watch?v=E9iRZ5BnUKY)][[Slide (SlideShare)](https://www.slideshare.net/TakumiKodama/convolutional-neural-network-architecture-and-input-volume-matrix-design-for-erp-classifications-in-a-tactile-p300based-braincomputer-interface)][[Paper (IEEE Xplore; will be uploaded soon)]()][[Report (Blog)]()] <span style="color: blue; ">*(Student Best Paper Award Nomination)*</span>
 
 ### Other Publications
 1. <u>兒玉拓巳</u>. **“観光用リアルタイム画像認識システムの構築 (Development of the Real--time Image Recognition System for a Sightseeing Usage),”** 平成23年度 情報工学科 卒業研究発表講演会, 独立行政法人 国立釧路工業高等専門学校 情報工学科, Mar. 2012. (日本語 / Japanese Language Only) [[At a grance (Youtube)](https://www.youtube.com/watch?v=_XMsg-hkFDE)][[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/ss-64184221)][[Thesis (PDF)](./docs/[O1]1203_Others_Thesis_KushiroNCT.pdf)]
@@ -78,12 +78,10 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 5. <u>T Kodama</u>, S. Makino and T.M. Rutkowski, **"Full Body Tactile Brain-Computer Interface,"** The Computer Science Seminar, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, Feb. 2015. [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/full-body-tactile-braincomputer-interface-64184788)]
 6. <u>T. Kodama</u>, S. Makino and T.M. Rutkowski, **"A Tactile P300-based Brain-Computer Interface Accuracy Improvement,"**, The Mid-term Presentation for Master's Degree, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, July 2016. [[Slide (SlideShare)](http://www.slideshare.net/TakumiKodama/a-tactile-p300based-braincomputer-interface-accuracy-improvement)][[Paper (PDF)](./docs/[O6]1607_Others_CSSeminar_Tsukuba.pdf)]
 7. <u>兒玉拓巳</u>, 清水健介, 森啓, 牧野昭二, ルトコフスキ トマシュ マチェイ, **"触覚刺激駆動型BCIの開発と応用 (Review of Stimulus-driven P300-based Tactile BCI Paradigms Developed by BCI-lab group),"** 第3回脳神経外科BMI懇話会 抄録集, 国立大学法人 旭川医科大学 脳神経外科, pp.5, Oct. 2016. (日本語 / Japanese Language Only)[[Paper (PDF)](./docs/[O7]1610_Others_JBMIC_Paper.pdf)][[Poster (PDF)](./docs/[O7]1610_Others_JBMIC_Poster.pdf)][[Report (Blog)](../2016/10/17/JBMIC.html)]
-8. <u>T. Kodama</u>, **"Full Body Spatial Vibrotactile Brain Computer Interface Paradigm,"**, Master's Thesis Defense, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, Jan. 2017. [[Video (Youtube; uploaded after finished EMBC conference)]()][[Slide (PDF; uploaded after finished EMBC conference)]()][[Thesis (PDF; uploaded after finished EMBC conference)]()][[Report (Blog)](../2017/01/26/MasterDefense.html)
-<!-- EMBC -->
-<!-- 動画アップ済み https://www.youtube.com/watch?v=lbSgr0yJSzw&feature=youtu.be -->
+8. <u>T. Kodama</u>, **"Full Body Spatial Vibrotactile Brain Computer Interface Paradigm,"** Master's Thesis Defense, Department of Computer Science - Graduate School of Systems and Information Engineering, University of Tsukuba, Jan. 2017. [[Video (Youtube)](https://www.youtube.com/watch?v=lbSgr0yJSzw)][[Slide (PDF)](https://www.slideshare.net/TakumiKodama/full-body-spatial-vibrotactile-brain-computer-interface-paradigm)][[Thesis (PDF; will be uploaded soon)]()][[Report (Blog)](../2017/01/26/MasterDefense.html)]
 
 ### Research Supports / Dispatches / Selections
-- `Jul.2017` **The Travel Reimbursement Stipend in IEEE US Funds** for attending the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017) from the IEEE Engineering in Medicine and Biology Society (EMBS), NJ, USA. [[Brochure(PDF)]()][[Official](https://embc.embs.org/2017/student-paper-competition/)] 
+- `Jul.2017` **The Travel Reimbursement Stipend in IEEE US Funds** for attending the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017) from the IEEE Engineering in Medicine and Biology Society (EMBS), NJ, USA. [<a class="modalimg" href="#brochureembc2017">Brochure</a>][[Official](https://embc.embs.org/2017/student-paper-competition/)]
 - `Nov.2016` **Overseas Dispatch of Graduate Student Travel Support** for attending the IEEE International Conference on Biomedical and Health Informatics (BHI-2017) from University of Tsukuba Study Abroad Support Programs, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/global/scholarship.html)]
 - `Nov.2016` **Travel Support for Overseas Academic Conference Participation** for attending the International Conference on Bio-engineering for Smart Technologies 2016 (BioSMART 2016) from Study Abroad Support Program, Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan. [[Official](http://www.tsukuba.ac.jp/english/students/study_program.html)]
 - `Sep.2016` **The HARA Research Foundation Research Grant Project for Overseas Academic Conference Participation** for attending Asia-Pacific Signal and Information Processing Association, Annual Summit and Conference 2016 (APSIPA ASC 2016) from the HARA Research Foundation, Osaka, Japan. [[Official](http://www.hara-rf.jp/)]
@@ -162,9 +160,11 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 <img src="./imgs/award_mar2017_deanawardTsukuba.png" class="modalframe" id="deanawardtsukuba">
 <img src="./imgs/award_mar2017_degreeTsukuba.jpg" class="modalframe" id="degreetsukuba">
 <img src="./imgs/award_may2017_scholarshipExemption.png" class="modalframe" id="scholarship">
+<img src="./imgs/award_jul2017_IEEEEMBS.png" class="modalframe" id="embs2017">
 <img src="./imgs/award_mar2016_svworkshop.png" class="modalframe" id="svworkshop">
 <img src="./imgs/award_nov2009_senshin.png" class="modalframe" id="senshinaward">
 <img src="./imgs/award_nov2012_tokushima.jpg" class="modalframe" id="tokushima">
+<img src="./imgs/brochure_jul2017_IEEEEMBC.png" class="modalframe" id="brochureembc2017">
 <img src="./imgs/media_dec2014_wbs.png" class="modalframe" id="wbs">
 <img src="./imgs/media_nov2009_senshin.png" class="modalframe" id="senshinmedia1">
 <img src="./imgs/media_sep2009_doshin.png" class="modalframe" id="doshin">
