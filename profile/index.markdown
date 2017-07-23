@@ -33,7 +33,7 @@ layout: profile
 	- **Spatial Tactile Body Brain-Computer Interface Paradigm** [[At a glance (Youtube)](https://www.youtube.com/watch?v=hMEMDCzIk30)][[Project Summary (bci-lab.info)](http://about.bci-lab.info/projects/btbci)]
 
 ### Research Awards
-- `Jul.2017` **Finalist in the 2017 EMBS Student Paper Competition** at the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), Jeju, Korea. [[Photo]()] [<a class="modalimg" href="#brochureembc2017">Brochure</a>][<a class="modalimg" href="#embs2017">Certificate</a>][[Official](https://embc.embs.org/2017/student-paper-competition-finalists/)]
+- `Jul.2017` **Finalist in the 2017 EMBS Student Paper Competition** at the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2017), Jeju, Korea. [<a class="modalimg" href="#brochureembc2017">Brochure</a>][<a class="modalimg" href="#embs2017photo">Photo</a>][<a class="modalimg" href="#brochureembc2017">Brochure</a>][<a class="modalimg" href="#embs2017certificate">Certificate</a>][[Official](https://embc.embs.org/2017/student-paper-competition-finalists/)]
 - `May.2017` **Full Repayment Exemption of JASSO Graduate Student Scholarship Category 1 Loan for Outstanding Achievement (日本学生支援機構 大学院第一種奨学金 特に優れた業績による全額返還免除)** by Japan Student Services Organization, Tokyo, Japan. [<a class="modalimg" href="#scholarship">Certificate</a>]
 - `Mar.2017` **The Representative Master's Degree Receipient of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科 修士号学位記受領者総代)** at the Graduation Ceremony of University of Tsukuba 2017, Tsukuba, Japan. [<a class="modalimg" href="#degreetsukuba">Photo</a>]
 - `Mar.2017` **The Dean Award of the Graduate School of Systems and Information Engineering (筑波大学大学院 システム情報工学研究科長賞)**, University of Tsukuba, Tsukuba, Japan. [<a class="modalimg" href="#deanawardtsukuba">Photo</a>][[Official](http://www.cs.tsukuba.ac.jp/internal/awards.html)]
@@ -160,7 +160,8 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 <img src="./imgs/award_mar2017_deanawardTsukuba.png" class="modalframe" id="deanawardtsukuba">
 <img src="./imgs/award_mar2017_degreeTsukuba.jpg" class="modalframe" id="degreetsukuba">
 <img src="./imgs/award_may2017_scholarshipExemption.png" class="modalframe" id="scholarship">
-<img src="./imgs/award_jul2017_IEEEEMBS.png" class="modalframe" id="embs2017">
+<img src="./imgs/award_jul2017_IEEEEMBS_Certificate.png" class="modalframe" id="embs2017certificate">
+<img src="./imgs/award_jul2017_IEEEEMBS_Photo.jpg" class="modalframe" id="embs2017photo">
 <img src="./imgs/award_mar2016_svworkshop.png" class="modalframe" id="svworkshop">
 <img src="./imgs/award_nov2009_senshin.png" class="modalframe" id="senshinaward">
 <img src="./imgs/award_nov2012_tokushima.jpg" class="modalframe" id="tokushima">
