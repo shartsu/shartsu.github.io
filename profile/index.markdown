@@ -163,7 +163,7 @@ https://www.researchgate.net/publication/316990856_Analysis_of_the_brain_activat
 <img src="./imgs/award_may2017_scholarshipExemption.png" class="modalframe" id="scholarship">
 <img src="./imgs/award_jul2017_IEEEEMBC_Brochure.png" class="modalframe" id="embc2018bro">
 <img src="./imgs/award_jul2017_IEEEEMBC_Certificate.png" class="modalframe" id="embc2018cer">
-<img src="./imgs/award_jul2017_IEEEEMBC_Photo.jpg" class="modalframe" id="embc2018phot">
+<img src="./imgs/award_jul2017_IEEEEMBC_Photo.jpg" class="modalframe" id="embc2018pho">
 <img src="./imgs/award_mar2016_svworkshop.png" class="modalframe" id="svworkshop">
 <img src="./imgs/award_nov2009_senshin.png" class="modalframe" id="senshinaward">
 <img src="./imgs/award_nov2012_tokushima.jpg" class="modalframe" id="tokushima">
